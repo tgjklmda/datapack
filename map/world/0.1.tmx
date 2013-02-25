@@ -15,12 +15,12 @@
  <tileset firstgid="5121" source="../tileset/invisible.tsx"/>
  <layer name="Walkable" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjZGBgYBzFo3gUj+JRPIqHOd5MhvotVLDXHAkTowYbHrWXeDyZBvaS4y5CdlGKh7K9lOihRpyONHuJyRuUpufLFJhNib2fB8heWtg5kPYCABr7MM4=
+   eJxjZGBgYBzFo3gUj+JRPIqHOd5MhvotVLDXHAnjUpPEiB+P2ks8nkwDe8lxFyG7KMVD2V5K9FAjTkeavTCML28QwoTsvUyB2ZTY+3mA7KWFnYTsxVemUooBJYhP6g==
   </data>
  </layer>
  <layer name="other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBiZgA2I2ZEwBw4xagM1NL4GDjFqAzcgdkfCHjjEiAXoYUWr8EIH6GEFArQIL3SAHlakhtcoGAWjgHTQKADBaozAfM6I4I+CUTAKRsEoGHwAVE6jA1iZTcuyOwPNXnQ7R+sNwgAA/1ELxg==
+   eJxjYBiZgA2I2ZEwBw4xagM1NL4GDjFqAzcgdkfCHjjEiAXoYUWr8EIH6GEFArQIL3SAHlakhtcoGAWjgHTQKADBaozAfM6I4NMSODEiMD4xaoJEIsxNpoHdQ9FecuKBVD3I8Y1NHyF5egFaxM1IsJeY9EcNe9H1DZS9INDESDymBGhg0Q8rs2lZdmeg2YtuJy3sHqh8QCsAACOgHFM=
   </data>
  </layer>
  <layer name="Dirt" width="30" height="30">
@@ -44,6 +44,11 @@
   </data>
  </layer>
  <layer name="LedgesBottom" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
+  </data>
+ </layer>
+ <layer name="LedgesTop" width="30" height="30">
   <data encoding="base64" compression="zlib">
    eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
   </data>

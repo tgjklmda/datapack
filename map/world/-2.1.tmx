@@ -14,6 +14,7 @@
  <tileset firstgid="4097" source="../tileset/animation.tsx"/>
  <tileset firstgid="5121" source="../tileset/invisible.tsx"/>
  <tileset firstgid="5137" source="../tileset/building-town.tsx"/>
+ <tileset firstgid="6161" source="../tileset/building-town.tsx"/>
  <layer name="Walkable" width="30" height="30">
   <data encoding="base64" compression="zlib">
    eJztyiEBAEAIBLDDf/9G9MKR4AViYm6VpAAAWP3+HIDrBrfABSU=
@@ -47,6 +48,11 @@
  <layer name="LedgesBottom" width="30" height="30">
   <data encoding="base64" compression="zlib">
    eJztzjEBAAAIA6DZw8P+KY3hISQgAbjVlUxdLwAA/llcmAA/
+  </data>
+ </layer>
+ <layer name="LedgesTop" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
   </data>
  </layer>
  <layer name="Water" width="30" height="30">

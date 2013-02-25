@@ -15,12 +15,12 @@
  <tileset firstgid="5121" source="../tileset/invisible.tsx"/>
  <layer name="Walkable" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztzjERADAMxLAPqvJnVgZZellSDZrtSlJDTmOq+WO3+9Hd2wUAgFcX8TwIyw==
+   eJztz7ENACAMA0F7KvZh/yFSUYYGWUjRF1e/bUkO2e6lmqe7mn66++PvbQ/duV0AAADgVQEv7gzr
   </data>
  </layer>
  <layer name="other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztlV8KRlAQR2coPNoCSVaCbVkqNmKkW9NtPKC5/s2pk74Hc178+gCMP5GQKTMLdKv2fjfkkB9vru9It/ZoyY55psnb/FZ//tRrGMmJnAN3EQEiMkbrXoFvVNqnVpdvVNqnVpfvXdqn61a4fddObVzXV5uCGqWg8Xzcf5X//HrbMIx7WADLfBDQ
+   eJztlW0KQEAQhi2Fn65AkpPgGtyEm+IiRtoa26zvWdI+9ab9sfPs18RxeKgFU+GD3saw/639tuDtiOjwIQFKeMNN1dKdQ6aM83nt0XnnPIeqpfMWkBLlihO7ca1qw8tNu3PPT9FDBsjIr1ohYG8uxDN8vn/z4h6lep3Li3s0N+jF/V5teFOxvGsZbqRXDTcxOBIilu8j/1Xq9+9ui8XyDhNFWxeV
   </data>
  </layer>
  <layer name="Dirt" width="30" height="30">
@@ -46,6 +46,11 @@
  <layer name="LedgesBottom" width="30" height="30">
   <data encoding="base64" compression="zlib">
    eJztzrEJADAMBLH3HsF4/ynTZgMXkeD6SwDYcirpp6ntIwDgJxc2IgCc
+  </data>
+ </layer>
+ <layer name="LedgesTop" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
   </data>
  </layer>
  <layer name="Water" width="30" height="30">

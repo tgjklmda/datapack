@@ -19,9 +19,9 @@
    eJztwwENAAAMw6DOv+kLOSSsmqqqqu8ezqADhQ==
   </data>
  </layer>
- <layer name="Other" width="30" height="30">
+ <layer name="other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztzbENACAMA0FHYhGYC3bJqjAJGYCCApHmT3LrlwAAAKRR5D328nPGVkK3mtTsf/dGVhcATjZcsgkN
+   eJztzUENADAIBLB74HP4V4ELkpHWQBMA2PUq6fJefQH4xwBpawMd
   </data>
  </layer>
  <layer name="Dirt" width="30" height="30">
@@ -31,12 +31,12 @@
  </layer>
  <layer name="Grass" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztVjsOQCEI823v/id2MjEG5FfEwSYOGqCAltjaw4MP31/LPVYkxklfKWdNTK3NbOfhi9TntZn7Y+HX1KrxtWL1Hfvou4zksrv7irxWcD1Dx5bqjvJKMbleZ8wc6f0jaqXOsnkpLml2IKHVDpo7UyMoVOSE6rNVm+i7pbTDnZ1A9E/i5dvNlcye36inW9ABJDIDfA==
+   eJztlcsNACAIQ/Hm/hM7AfJVQGnirfgaAgrQ+lVj4gfzYPUVuJIslL8qV6rs3Kz5TuWScr3nNYq7ewNe5Gr92hxRXOp+yz9Rgavto5V/m8vdG27frVzKF7VXXvVR3FZtLa+nBfs=
   </data>
  </layer>
  <layer name="LedgesRight" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
+   eJzt1cENACAIADGYzNFdzRGIEj+k/d4AFwEwy272Vyt7HYBZfv2m4jfcOJhBAv4=
   </data>
  </layer>
  <layer name="LedgesLeft" width="30" height="30">
@@ -46,7 +46,7 @@
  </layer>
  <layer name="LedgesBottom" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
+   eJzt0EENADAMxLArjz3GH+VgVGttBFESmOtUcqu74h9+AQDs8gAu7wB9
   </data>
  </layer>
  <layer name="LedgesTop" width="30" height="30">
@@ -59,47 +59,42 @@
    eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
   </data>
  </layer>
- <layer name="other" width="30" height="30">
-  <data encoding="base64" compression="zlib">
-   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
-  </data>
- </layer>
  <layer name="Collisions" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJzdlVEOgCAMQ/nwItxVb6L31B8TQui6MsDEJmQBgu5RGPuW0vG0fXE8n3Z9EFdz/o2XaRZvJv/28rK8S+XGOtRn+bO82Tjq13xon9A+qL4iXsZn8VjesvMc5bDWZwcv40ccbL16fxGnKvX+orxVRXlVvlG8tVpnORu+q7yq3ywfLy+qw6rfI3xt1WWmqK/1d9Q8R3G/Yudg1Ltaa3W9YuOz6hUbV3l763Q5b71HHu7Sa+Z/tF55z7d3XuX18rH5Xt5o7OWNxhu0n0uj
+   eJzlldENgDAIRPvhKLqJbqab6J7y3YTcHVD7IQkhRGL6elDOpbXL/Pw43ubPhLiabxPibn5MiP05WIvWe7ysResRr6cL4kE54vV0YfnR/1QedD9ZXo8H3U+WV+1Xz9j59c4bNXV+q/Ws6mdVz1HvlToPVe+VOg+qftl6tZ+jerP6Vu8nlrd6P0XnF+XsPWX1RRwst7qPvJytj+4jL2frq/dR1XtV1c/9d3Z+R0XUl6Pi33hf2DOZKQ==
   </data>
  </layer>
  <layer name="WalkBehind" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBgYkMLCwJDKMkCWDwCA+ZdaNLH2DRQg1/245NHFCfHpDUj1H7nuJzUd0ArQyh/Exj+9Abn5klx3D1X/kmo+Lj69Aan+HazplFhArXgdLv6ldj4d6HChdnlFSHyo+Jfc+Bqq5RWl7S5i5WkNqN1+pnX9NlQBAPJlWP4=
+   eJzllksKACAIRF3Y/a/cPhA/DTnVbMIY0ZdEifRIVWTo+bVL1T6qflbe7FysfK/OaWV5vPPxYlZeVF+33F/0PNl5o3lWjKqDVnZ+u342XvT7xM677ntxlIed1/JZcdTPyov+b7Hy/vZ/fp23SxOgnwjW
   </data>
  </layer>
- <layer name="Other" width="30" height="30">
+ <layer name="other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
+   eJztwzENAAAMA6Ae01n/MipkkNBLqqqq6rsDu2dYmA==
   </data>
  </layer>
  <objectgroup name="Moving" width="30" height="30">
   <object name="border" type="border-bottom" gid="5124" x="240" y="480">
    <properties>
-    <property name="map" value="-2.2"/>
+    <property name="map" value=""/>
    </properties>
   </object>
   <object name="border" type="border-left" gid="5124" x="0" y="256">
    <properties>
-    <property name="map" value="-3.3"/>
+    <property name="map" value=""/>
    </properties>
   </object>
   <object name="border" type="border-right" gid="5124" x="464" y="256">
    <properties>
-    <property name="map" value="-2.3"/>
+    <property name="map" value=""/>
    </properties>
   </object>
   <object name="border" type="border-top" gid="5124" x="240" y="16">
    <properties>
-    <property name="map" value=""/>
+    <property name="map" value="0.1"/>
    </properties>
   </object>
-  <object name="bot spawn" type="bot spawn" gid="5122" x="352" y="320"/>
+  <object name="bot spawn" type="bot spawn" gid="5122" x="272" y="192"/>
  </objectgroup>
 </map>

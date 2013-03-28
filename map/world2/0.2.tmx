@@ -21,7 +21,7 @@
  </layer>
  <layer name="Other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo2AUjIJRMFTBRBFUeqTYPQqGHngExY8JqMsG4hwicS4R9ioxQrAyI351q4F4DRL2AuIeIPZEEwfhtUTYSy7ohtrbS0M7Ru0d3vZiy0NZUHszGUjPQ8QC9DyED9MyD4008JABUb4SU8ZiAwBjzyu6
+   eJxjYBgFo2AUjIJRMFTBRBFUeqTYPQqGHngExY8JqMsG4hwicS4R9ioxQrAyI351q4F4DRL2AuIeIPZEEwfhtUTYSy7ohtrbS0M7Ru0d3vZiy0NZUHszGUjPQ8QC9DyED9MyD40C0gEAWvgnUA==
   </data>
  </layer>
  <layer name="Dirt" width="30" height="30">
@@ -66,7 +66,7 @@
  </layer>
  <layer name="WalkBehind" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBgYkMLCwJDKgqCHuj2DxR2j/h0YgO4OetGj/h0Y/w51e+jljkJhBoYiIC4G4hIgLhWmzB52PgYGDiTMyUe+2wYCkOpfd6D/PJCw5zD371AHpPo3B5gfcoE4D4jzgbhAmLAeWrgDFyCU3wZL/FLLHYTy23Dz72CxZ7C4Y7D6l9J2EbHmAABeLE0f
+   eJxjYBgYkMLCwJDKgqCHuj2DxR2j/h0YgO4OetGj/h0Y/w51e+jljkJhBoYiIC4G4hIgLhWmzB52PgYGDiTMyUe+2wYCkOpfd6D/PJCw5zD371AHpPo3B5gfcoE4D4jzgbhAmLAeWrgDFyCU3wZL/FLLHYTy23Dz72CxZ7C4Y7D6l9x2EanmAACDsE3w
   </data>
  </layer>
  <layer name="Other" width="30" height="30">

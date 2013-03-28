@@ -21,7 +21,7 @@
  </layer>
  <layer name="other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYCAdMDIyMDBBMTMjGQaQCUbtpQ9QBNqlBMXKdLR3FIyCoQQmigycWdSweyDspIbdbsAyyR2IPXCUTW445Ch1fxrQzHQgzsBhbxoeuVEwvAE188ZgtpNSuwnlXXzqyLUTpA857+Izh1AeHwWjYDgDAFdsEVM=
+   eJxjYCAdMDIyMDBBMTMjGQaQCUbtpQ9QBNqlBMXKdLR3FIwCUsFDIH7EwNAAwo8pNweMiTEHmjcbKM2bpObxQWBvw0Db6wak3YHYA4d+NyxypJZp2NSnAel0IM7AoT8Nj9wooC0gNf9SC4y0tgGl9hLKu7jUUWLvRBHUvAvi4wLoeXy0LTQKRhIAALizGlc=
   </data>
  </layer>
  <layer name="Dirt" width="30" height="30">
@@ -59,19 +59,24 @@
    eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
   </data>
  </layer>
+ <layer name="other" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt0wEJADAIRUFDrPgaL8NA+IJ3AXwIWgXAr3tyszraieaENnRL3GfyJ7btCxs8H4kHGA==
+  </data>
+ </layer>
  <layer name="Collisions" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztllkOgkAQRPuDTwJnIFHviYLbLdj0HIDLOdyvYZlogjoT6XEgY6STl/qYpnoq6UkILKIQBDXVA6/lMb5/aAoyhsrmcn249+zytpNXVt/mbao+5W2qurxm5u05RP0KA0eth5s3soniComt1sPNq2suN28Oj+Luc9NS4JlXzmU9KvvsW88qqynOZ2Au6PuVfdZVpuf1XaIhGIEAhGAMJu67p873G8E/BglIQQYWYCmYq/P95vAvQAlWYA02YKs4t27eHfz34ACO4ATO4CKYW+eNd/tsRt62lPsfqEv/Le8V9503JA==
+   eJztlkkOgkAQRWvB0sAZSNRjeRIXouB0C0D0HIDDOZyv4SdCogihq2lMiP7kpRbdVPVbVIKtETnAFqwmyMdkfJ/VFQgYtWwutw/3nX/f7/iWpSlf0aj2FU1dX1Xh+tbNEIxI3LepVPnm09WJei/0dbk7XF+3Q+S94Hfk7nB9Vc3l+oboEaV9khrneg7SO9l50R0Z3ySW9l7LMsf5Aiy153s4vm3f3yxt2V/LIBqDCbCBA6ZgZnz2VLm/Lvp7wAcrEIA12BTMVbm/IfpHIAZbsAN7cJCcK+p7RP8TOIMLuIIbuBfMrdpxjq/q/PeX9x+oqnL/A1XVX/N9AEN9VXQ=
   </data>
  </layer>
  <layer name="WalkBehind" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBgF9AApLAwMqSzE07Q2h9aAXu4Y9e/AgMHqXxY+BgZWJMzGR54aSt1BLiDVHheg212RsBsWvxCjhlJ3kAtG0/PAgMHm30R+BoYkIE4G4hQgTgXiNCBO58dUO5zyLzFgNP8OHncMVv/Six717/AGAI6sTBI=
+   eJxjYBgF9AApLAwMqSzE07Q2h9aA2u4bqv4dKuZT6p7BYg8LHwMDKxJm4yNPDaXuIBeQao8L0O2uSNgNi1+IUUOpO8gFgzU9j+Zf+tqTyM/AkATEyUCcAsSpQJwGxOn8mGqHU/4lBozmX9LdMdLyL73oUf8ObwAAM8JV3g==
   </data>
  </layer>
  <layer name="other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo2AUjIIRDHgHxlqFAbKXmsBUlDJ5ckEoAXMJyY+CUTDSwVcR4tRROw+LEmneaB4eBaOAvgAA6TgDig==
+   eJxjYBgFo2AUjIIRDHgHxlqFAbKXWiCBh4HBVBRC4wIgeZhaaoJQUcrkR8EoGOngqwhhNbA8Tk0gSqR5o3l4FIwC+gIAZVwFOg==
   </data>
  </layer>
  <objectgroup name="Moving" width="30" height="30">

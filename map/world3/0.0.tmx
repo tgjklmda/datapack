@@ -10,28 +10,27 @@
  <tileset firstgid="1" source="../tileset/terra.tsx"/>
  <tileset firstgid="1025" source="../tileset/wood.tsx"/>
  <tileset firstgid="2049" source="../tileset/rename.tsx"/>
- <tileset firstgid="3073" source="../tileset/building-town.tsx"/>
- <tileset firstgid="4097" source="../tileset/building-small.tsx"/>
+ <tileset firstgid="3073" source="../tileset/building-small.tsx"/>
+ <tileset firstgid="4097" source="../tileset/animation.tsx"/>
  <tileset firstgid="5121" source="../tileset/invisible.tsx"/>
- <tileset firstgid="5137" source="../tileset/animation.tsx"/>
  <layer name="Walkable" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztzaENAEAIBLBjhE/Yf1Yk5icgFdWtJAVwzOvlBQD4G9dxBMk=
+   eJztzsEJADAIBEFjqfZfRHwL9xEkQRZu3ntxzELIjVFNuvu6k51fugCAHi9e/9n+GwCqC5UVEz8=
   </data>
  </layer>
  <layer name="other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYKA+YGRkYGBmpIHBBIAi0E7lAbB3FAx9wAbE7FDMQUd71ZDYGnS01w2I3aHYg8Z22TAxMNgx0dgSLCAGau+uAbKXEEBOc9RId7+QMD6ghsanNN2B/BtHhH+R0xw90t0oGAWjYBSMglEwmMBDIH48APYS0y8DAEm/C5E=
+   eJxjYBgFo2AUjALKwEMgfoSEH9PJHEZGBgYmJMzMiF8dIXlC5qCrBwF86hWB4kpArExle4lVTy1zYP5QIuAfQoCQOZSkHUoAJWFJCSAnLKmV10gF1Ep75NoLAgNhL739S628NlxAowAqTQogN6+g6yM1n5Ebh+j6RuN/FNATAACdax6r
   </data>
  </layer>
  <layer name="Dirt" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJzt0jENAAAIBLF3g3+HDKABljY5B5cAn2qDKxXfAQCjAfWaAMQ=
+   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
   </data>
  </layer>
  <layer name="Grass" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztlkkKwDAIRdNdj+3R25JNEDXilNLmg7voE4dga//WcXbTvJm9i+ZmCHOr8qC4FRp7V1lziruq31/W6vpuvVPeebh94TEr1+I7crEJnND5tzCj9o7irvpHq7kch+J68kGxQeAClUP0XknxuFoY9xK0d49Uc69mcbgZCOCCNreMWdfGzubuG0HWBWARDxw=
+   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
   </data>
  </layer>
  <layer name="LedgesRight" width="30" height="30">
@@ -49,57 +48,61 @@
    eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
   </data>
  </layer>
- <layer name="LedgesTop" width="30" height="30">
-  <data encoding="base64" compression="zlib">
-   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
-  </data>
- </layer>
  <layer name="Water" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo2AUDAUgKIKJ6WEHte0l1g5y7UVXSwu7iNFHTb+Q4l5qxBM90gEp9o6CUTAKRsEoGAWjgHYAACWXDSg=
+   eJztzaENAAAIBLFnA/aflg1QCESbnL4EAADgRvWe76/vAAXuAiE=
   </data>
  </layer>
  <layer name="other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo2AUjILBC34hYXLALjxyUoyo5sPwbzLtItYOWphvw8TAYMdEGzuQ7aGV+QxQcw2B2IjG9oyCUTAKRsEoGAWjAAEA3c0bcQ==
+   eJxjYMANkhnxSNIQjNo7/OxtYkTgZjrZO9z9N9hAowAqTQ9z0NWQaze1zKE1GEj/DkT8jgLsYCDCcKjkEWqBgfTvaB4ZBcMB7ATiXTjwbhraexOP3O1Re3ECAN1jHvc=
   </data>
  </layer>
  <layer name="Collisions" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJy9l9ENgzAMRPnoArABI5QZYZN2z/onUhXFOd/ZcJJliViJXwyWOV/LcpmdRX43a9oncR+zb6Hv5cX1eTR5z1UhXi/PrFhelLfqES/KW/VVdWT3qaojuw+qw11iv8cqPcXXn/cUX9P/OavZJu4Tva9R3NvsEM+N3ldVf1Y5s/1Z5azuV4gvyqtK7c+onllONG94HFlOlpflR/eg9mU2LsqL5o8Z72gtyovmjxnvaI3lvWseYd9DVVlelTvLq3JX8bJ9rorX8/1/mRf3A1jCGlY=
+   eJztVkFOwzAQtKUc8xDgBX0CcOVADxWngoA3IGQk+EXEifIK6An6CsQJ+oyKWSWWrGW92UhOD1VHGkV2vLMaK5544vKYgI+Vc09V+ee0p+8L1iyq8k8NY/rt67vLfs/A84TTLfm1+JvXzl0KvKpbDavfwf6gvxD42vW1+o3971Bzn2EAZ77V/YD+p8BV1/fC57VCsh+W74vQQM9j3Q/0fwWu6/b9s9d1uN8UBxgfgkfJfNPpkfYDW09j382lfSUdze8xxifgaTL/Br33jl/M03fybul1HW1/rzF/A94a9l+DpGPJqzFg/Z5KY+93GKQzYoF2filzeA5T/s56zgjBCxme1mrnFxkReA5T/iITQlyTO2teyHCqjbmj+aW+PIdXrG8O1FeqbYx+eQ6vB/SVai1+N5ls3xj6EmJ+pzkea4f+j0pB8zsm9n63A+63xD1fA9cpec8nSHe64P7r/AHyywF9
   </data>
  </layer>
  <layer name="WalkBehind" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJzdVtEOgCAIpM2/6nfqI+vr6q1mMu4KFbuN+SAenExEJBaWJLKma43G552Hllfu/3btBa88ouix0KIO22l7Zt4oxZinp98XfWiMUjyG/w4kBgNWA3pfuR97T16w+hXat1D+3u+79r8TXa9VT5ZnVL3auVr8tYDWAZ1HtL1R9P5tHmk1D46ul+1zUfT2wgEw2Gjd
-  </data>
- </layer>
- <layer name="other" width="30" height="30">
-  <data encoding="base64" compression="zlib">
-   eJxjYBgFo2AUjILhB2yYhoe9gkAsRF0jB7W9o2AUjIJRMApGwSigLwAAoxYAww==
+   eJxjYBicIIWFgSGVhfr0YAXD2b/EuNOFh4HBFQt244GYQQv/pvMwNBCQJxqQan8L0OxWLLiNSDspid8EqB2sAqh8UgA2+zmAfE4g5iLgLlUB/PLI5sDMGkzpmRQQh0YTC4aqf8kFo/4lDRCb10i13wWp3EUuf4kB+PTi8y+ucpiY8pdYvbjsRy+HiS1/CeklNn5BZXA9GeUvrOzGpZeQ/aAyeD4Z9sLKbnS9A51/8dlPbhlMrn30APS2f7D4l9bt3sHYfqYnAAC+QEd1
   </data>
  </layer>
  <objectgroup name="Moving" width="30" height="30">
-  <object name="border" type="border-bottom" gid="5124" x="240" y="480">
+  <object name="border" type="border-top" gid="5124" x="240" y="16">
    <properties>
-    <property name="map" value="-2.3"/>
+    <property name="map" value="0.1"/>
+    <property name="x" value="15"/>
+    <property name="y" value="29"/>
    </properties>
   </object>
   <object name="border" type="border-left" gid="5124" x="0" y="256">
    <properties>
-    <property name="map" value=""/>
+    <property name="map" value="-1.0"/>
+    <property name="x" value="29"/>
+    <property name="y" value="15"/>
    </properties>
   </object>
-  <object name="border" type="border-right" gid="5124" x="464" y="256">
+  <object name="door" type="door" gid="5123" x="352" y="352">
    <properties>
-    <property name="map" value=""/>
+    <property name="map" value="../indoor/0.0a"/>
+    <property name="x" value="5"/>
+    <property name="y" value="10"/>
    </properties>
   </object>
-  <object name="border" type="border-top" gid="5124" x="240" y="16">
+  <object name="door" type="door" gid="5123" x="128" y="352">
    <properties>
-    <property name="map" value="-2.5"/>
+    <property name="map" value="../indoor/0.0a"/>
+    <property name="x" value="5"/>
+    <property name="y" value="10"/>
    </properties>
   </object>
-  <object name="bot spawn" type="bot spawn" gid="5122" x="192" y="240"/>
+  <object name="door" type="door" gid="5123" x="240" y="160">
+   <properties>
+    <property name="map" value="../indoor/0.0a"/>
+    <property name="x" value="5"/>
+    <property name="y" value="10"/>
+   </properties>
+  </object>
  </objectgroup>
 </map>

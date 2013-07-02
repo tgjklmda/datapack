@@ -1,45 +1,124 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.0" orientation="orthogonal" width="15" height="16" tilewidth="16" tileheight="16">
+<map version="1.0" orientation="orthogonal" width="11" height="12" tilewidth="16" tileheight="16">
  <tileset firstgid="1" source="../tileset/inside-terra.tsx"/>
  <tileset firstgid="1025" source="../tileset/invisible.tsx"/>
- <tileset firstgid="1041" source="../tileset/inside-mobilier.tsx"/>
- <tileset firstgid="2065" source="../tileset/inside-decoration.tsx"/>
- <layer name="Walkable" width="15" height="16">
+ <tileset firstgid="1041" source="../tileset/inside-decoration.tsx"/>
+ <tileset firstgid="2065" name="1" tilewidth="16" tileheight="16">
+  <image source="../tileset/inside-mobilier.png" trans="000000" width="512" height="512"/>
+  <tile id="32">
+   <properties>
+    <property name="Grass" value="true"/>
+   </properties>
+  </tile>
+  <tile id="837">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+  <tile id="838">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+  <tile id="839">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+  <tile id="869">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+  <tile id="870">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+  <tile id="871">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+  <tile id="901">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+  <tile id="902">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+  <tile id="903">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+  <tile id="934">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+  <tile id="935">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+  <tile id="966">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+  <tile id="967">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Walkable" width="11" height="12">
   <data encoding="base64" compression="zlib">
-   eJxrZ2BgaB/Fo3gUDximBAAAX6N2qA==
+   eJxbzMDAsBiI2YnAi6FYnQjcOIoHDSYFAACIATYO
   </data>
  </layer>
- <layer name="Other" width="15" height="16">
+ <layer name="Other" width="11" height="12">
   <data encoding="base64" compression="zlib">
-   eJxjYBgYIMHCwCDJgqBJUWsBxJZIND5AitrhCEbDeXgDANx0BZE=
+   eJxjYCAdzOBgYJjJQbocvUEsDdxBCzNxgVeMDAzyQFqBCDdwMTEwxAPpBArtBAA0GwWn
   </data>
  </layer>
- <layer name="Collisions" width="15" height="16">
+ <layer name="Collisions" width="11" height="12">
   <data encoding="base64" compression="zlib">
-   eJxbzMDAsHgA8AwWBoaZLAgaH0BXuwOIdyLR+AApaokBdkAz9gNxPQGziFVHazBUw3kkAUryEQCPvjVI
+   eJxjYEAF7FgwLqCOhNEBTG8FBwNDJQdEzA5I7wfieiCO40DI4TIDG7CD6qcWAJlnT0XzyHUDqX4SYiFe3WIG4jEA7q4ORQ==
   </data>
  </layer>
- <layer name="Other" width="15" height="16">
+ <layer name="Other" width="11" height="12">
   <data encoding="base64" compression="zlib">
-   eJzjYGBg4CATa1CABwt4xcjA8BqI3zCSrpeLiYGBG4h5mKjvrlEwCogBAKa2Bbw=
+   eJxjYCAd3OBgYLjJQZzcDiB7Jw61+OQoAXJAM+VpYO5gAkIs1FUHAwCdTQb+
   </data>
  </layer>
- <layer name="WalkBehind" width="15" height="16">
+ <layer name="WalkBehind" width="11" height="12">
   <data encoding="base64" compression="zlib">
-   eJxjYBh5QI6FgWE+EMezUEfdKBgFAwUAQjoCUQ==
+   eJxjYCAdRHAwMERyQNhyQHo+EMdzYMqBwA8g+ycHphnIcrJALI9DDTqwJUJdGAsDQzgLceaVAdWVE6mWFCBHgp/IAUVEuplYdTAAAI0qCi0=
   </data>
  </layer>
- <layer name="Other" width="15" height="16">
+ <layer name="other" width="11" height="12">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo2AUDFUAAAPAAAE=
+   eJxjYBgFowABAAIQAAE=
   </data>
  </layer>
- <objectgroup name="Moving" width="15" height="16">
-  <object name="teleport on push" type="teleport on push" gid="1027" x="112" y="256">
+ <objectgroup name="Moving" width="11" height="12">
+  <object name="teleport on push" type="teleport on push" gid="1027" x="80" y="192">
    <properties>
     <property name="map" value="../world/0.0"/>
-    <property name="x" value="15"/>
-    <property name="y" value="15"/>
+    <property name="x" value="9"/>
+    <property name="y" value="23"/>
+   </properties>
+  </object>
+  <object name="teleport on push" type="teleport on push" gid="1027" x="96" y="192">
+   <properties>
+    <property name="map" value="../world/0.0"/>
+    <property name="x" value="9"/>
+    <property name="y" value="23"/>
    </properties>
   </object>
  </objectgroup>

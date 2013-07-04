@@ -96,5 +96,33 @@
    </properties>
   </object>
   <object name="bot spawn" type="bot spawn" gid="5122" x="240" y="256"/>
+  <object name="door" type="door" gid="5123" x="176" y="288">
+   <properties>
+    <property name="map" value="../indoor/0.2a"/>
+    <property name="x" value="6"/>
+    <property name="y" value="10"/>
+   </properties>
+  </object>
+  <object name="door" type="door" gid="5123" x="320" y="288">
+   <properties>
+    <property name="map" value="../indoor/0.2b"/>
+    <property name="x" value="6"/>
+    <property name="y" value="10"/>
+   </properties>
+  </object>
+  <object name="door" type="door" gid="5123" x="160" y="400">
+   <properties>
+    <property name="map" value="../indoor/0.2c"/>
+    <property name="x" value=""/>
+    <property name="y" value=""/>
+   </properties>
+  </object>
+  <object name="door" type="door" gid="5123" x="304" y="400">
+   <properties>
+    <property name="map" value="../indoor/0.2d"/>
+    <property name="x" value="6"/>
+    <property name="y" value="10"/>
+   </properties>
+  </object>
  </objectgroup>
 </map>

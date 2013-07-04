@@ -78,17 +78,17 @@
  </tileset>
  <layer name="Walkable" width="11" height="12">
   <data encoding="base64" compression="zlib">
-   eJxbzMDAsBiI2YnAi6FYnQjcPIoHDSYFAABEyDbU
+   eJxjYKANWDqKBw0mBQAA1uA/0A==
   </data>
  </layer>
  <layer name="Other" width="11" height="12">
   <data encoding="base64" compression="zlib">
-   eJxjYKAucOQgXm0iCWpHAWFgD8QOFJoBAEg/ATI=
+   eJxjYBgFAwE2ciDYWzhwq5MnYI4dlOZiotRFEAAA+vYB3w==
   </data>
  </layer>
  <layer name="Collisions" width="11" height="12">
   <data encoding="base64" compression="zlib">
-   eJzjZmBg4EbDi4GYAwvWxoJBajWw4K9ADd+A+CoQXwNicw6IGeggCZsg1IzBDiYB3T4Zh/vRwSagus1EqqU2WEwCBgBUfBF/
+   eJxbzMDAsJgGWIgEbEQCXsbBgAJWoPFhQIiFgeEYUO44Ej6BQy01wSSgHZOJtGcTUN1mOriJlHgDABiIIBk=
   </data>
  </layer>
  <layer name="Other" width="11" height="12">
@@ -98,44 +98,30 @@
  </layer>
  <layer name="WalkBehind" width="11" height="12">
   <data encoding="base64" compression="zlib">
-   eJxjYCAOKHEwMIgCsRgQhwJxGBCLc2BX6wQUNwViMyAuBeIyHOpGweADAExvAwA=
+   eJxjYBgYIMzCwCDCAmG3caDKdaDxjYHqTIB4ElT9cg4ExgU2sVDPrcSCiUjumYLHbYMZAADwMQZL
   </data>
  </layer>
  <layer name="other" width="11" height="12">
   <data encoding="base64" compression="zlib">
-   eJxjYKAucOSgsoGjgK4AAIHIAEo=
+   eJxjYBgFowABAAIQAAE=
   </data>
  </layer>
  <objectgroup name="Moving" width="11" height="12">
-  <object name="teleport on push" type="teleport on push" gid="1027" x="80" y="192">
+  <object name="teleport on push" type="teleport on push" gid="1027" x="32" y="192">
    <properties>
     <property name="map" value="../world/0.0"/>
-    <property name="x" value="10"/>
+    <property name="x" value="18"/>
     <property name="y" value="15"/>
-   </properties>
-  </object>
-  <object name="teleport on push" type="teleport on push" gid="1027" x="96" y="192">
-   <properties>
-    <property name="map" value="../world/0.0"/>
-    <property name="x" value="10"/>
-    <property name="y" value="15"/>
-   </properties>
-  </object>
-  <object name="teleport on push" type="teleport on push" gid="1027" x="144" y="48">
-   <properties>
-    <property name="map" value="../indoor/0.0A2"/>
-    <property name="x" value="8"/>
-    <property name="y" value="2"/>
    </properties>
   </object>
  </objectgroup>
  <objectgroup name="Object" width="11" height="12">
-  <object type="bot" gid="1027" x="32" y="64">
+  <object name="bot" type="bot" gid="1027" x="32" y="80">
    <properties>
     <property name="file" value="../bots.xml"/>
-    <property name="id" value="1"/>
-    <property name="lookAt" value="top"/>
-    <property name="skin" value="mother"/>
+    <property name="id" value="6"/>
+    <property name="lookAt" value="bottom"/>
+    <property name="skin" value="guardian"/>
    </properties>
   </object>
  </objectgroup>

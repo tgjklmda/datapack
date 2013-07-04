@@ -31,7 +31,7 @@
  </layer>
  <layer name="Grass" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztz7EJADAIRUHtsv/EGSEYRCzuwFIePwLolud9lR/dXd0NOvb+7Nad6QLAlAsIWgRd
+   eJxjYBgFo2AU0BIwcmDH5KobtXdw2TtQYKSF80izdxSMglEwCkbBKKAXAABYAwNh
   </data>
  </layer>
  <layer name="LedgesRight" width="30" height="30">
@@ -46,7 +46,7 @@
  </layer>
  <layer name="LedgesBottom" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJzt1MEJACAMA8C4h4j7T+kE/op9eAcZIBCSwB/mSFZB9uhuQreqLdkTN/4KgFcO88oHBw==
+   eJxjYBgFo2BkARlGBgY5LBgEsInDsALjwLp7FAw+gCstEZOuRtPTKCAGjJZXo2AUjIJRMApoDQAz5AU2
   </data>
  </layer>
  <layer name="LedgesTop" width="30" height="30">
@@ -61,12 +61,12 @@
  </layer>
  <layer name="Collisions" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxrYWFgaAXiFiJpRSBGB4ok6IfRS4B4KQk0LntJNQfdHbQChPxLKzDq31H/0gKM+nfUv7QAo/4d9S8twGD1LyGaWP9Qu31FrH9GUvuKA2gOJxBzIZlHrH81gGxNINYiwy3Y9BLrXw8g2xOIvciwF5teYv2bAWRnAnEWGfZi0ztY8y+twGDxLwAsN7s+
+   eJxrYWFgaAXiFiJpRSBGB4ok6IfRS4B4KQk0LntJNQeXe6gFSPUvtcCof0f9O+pfysGof0f9O+pfygGp/qXU35S2N6jtT2L9S6z/STWHkLuI9T+p5tAqHRMKD1qkYw6gOZxAzIVkHrH+1QCyNYFYiwy3YNNLrH89gGxPIPYiw15seon1bwaQnQnEWWTYi00vPeIXGxjO6RkbQLcHAAcB6uY=
   </data>
  </layer>
  <layer name="WalkBehind" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBgYkMLCwJDKgqCHuj2DxR2j/h0YMOrfoW3PYHHHqH8HBoz6d2jbQ6o7CNG0NofWYKTHLwxwANmcQMxFJbcNdv8OVXsGizsGq38pLWeINQcAkN09Yw==
+   eJxjYBgYkMLCwJDKgkkPFfMHm3tG/TvqX3qCUf+O+ncwmz/Y3DNU/Eupu2hlLqWAkLuIdSe1zKE1oJc7Brt/OYBsTiDmopLbBrt/h6o9g8Udg9W/lJYzxJoDAIFGTbc=
   </data>
  </layer>
  <layer name="Other" width="30" height="30">
@@ -96,5 +96,15 @@
    </properties>
   </object>
   <object name="bot spawn" type="bot spawn" gid="5122" x="240" y="256"/>
+ </objectgroup>
+ <objectgroup name="Object" width="30" height="30">
+  <object type="bot" gid="5123" x="256" y="32">
+   <properties>
+    <property name="file" value="../bots.xml"/>
+    <property name="id" value="2"/>
+    <property name="lookAt" value="left"/>
+    <property name="skin" value="badguys"/>
+   </properties>
+  </object>
  </objectgroup>
 </map>

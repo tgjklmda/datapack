@@ -98,16 +98,9 @@
   <object name="bot spawn" type="bot spawn" gid="5122" x="368" y="320"/>
   <object name="door" type="door" gid="5123" x="48" y="192">
    <properties>
-    <property name="map" value="../indoor/"/>
-    <property name="x" value=""/>
-    <property name="y" value=""/>
-   </properties>
-  </object>
-  <object name="door" type="door" gid="5123" x="48" y="176">
-   <properties>
-    <property name="map" value="../indoor/"/>
-    <property name="x" value=""/>
-    <property name="y" value=""/>
+    <property name="map" value="../indoor/-1.6"/>
+    <property name="x" value="9"/>
+    <property name="y" value="5"/>
    </properties>
   </object>
   <object name="door" type="door" gid="5123" x="272" y="464">
@@ -122,6 +115,13 @@
     <property name="map" value="../indoor/"/>
     <property name="x" value=""/>
     <property name="y" value=""/>
+   </properties>
+  </object>
+  <object name="door" type="door" gid="5123" x="48" y="176">
+   <properties>
+    <property name="map" value="../indoor/-1.6"/>
+    <property name="x" value="9"/>
+    <property name="y" value="5"/>
    </properties>
   </object>
  </objectgroup>

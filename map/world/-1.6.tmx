@@ -104,15 +104,15 @@
   <object name="door" type="door" gid="5123" x="416" y="176">
    <properties>
     <property name="map" value="../indoor/-1.6"/>
-    <property name="x" value=""/>
-    <property name="y" value=""/>
+    <property name="x" value="1"/>
+    <property name="y" value="5"/>
    </properties>
   </object>
   <object name="door" type="door" gid="5123" x="416" y="192">
    <properties>
     <property name="map" value="../indoor/-1.6"/>
-    <property name="x" value=""/>
-    <property name="y" value=""/>
+    <property name="x" value="1"/>
+    <property name="y" value="5"/>
    </properties>
   </object>
  </objectgroup>

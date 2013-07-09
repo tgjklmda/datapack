@@ -78,7 +78,7 @@
  </tileset>
  <layer name="Walkable" width="11" height="12">
   <data encoding="base64" compression="zlib">
-   eJxbzMDAsBiI2YnAi6FYnQi8aBQPGkwKAACykULR
+   eJxjYBjeoAOIVxCgYYCQuhVD2FxiAQBGOiAR
   </data>
  </layer>
  <layer name="Other" width="11" height="12">
@@ -88,7 +88,7 @@
  </layer>
  <layer name="Collisions" width="11" height="12">
   <data encoding="base64" compression="zlib">
-   eJxjYGBgWEwkhgFi1ZOC2YjAMLVqRGCYWiEWhLuXcTAwLAfiFRwIMZA8uv9A4BhQzXEgPsGBKo5NLS5Aa7XIfsMGkP1GLAYAyGYqqg==
+   eJxbzMDAsHgQYGEiMEytMREYplaIhQEOlnFA6BUcCDGQPEwtMjgGVHMciE9woIpjU4sL0Fotst+wAWS/EYsB/Voszg==
   </data>
  </layer>
  <layer name="Other" width="11" height="12">
@@ -98,12 +98,12 @@
  </layer>
  <layer name="WalkBehind" width="11" height="12">
   <data encoding="base64" compression="zlib">
-   eJxjYBg8QJSFOPFJQL4pVEyNA0JrQGmQ+CQk9ZtwmEmsPL3BJALuobXfAFvDBjM=
+   eJxjYBg8QJSFOPFJQL4pDrUg8UlIcptwqCNWnt5gEgH30NpvAOHkBdU=
   </data>
  </layer>
  <layer name="other" width="11" height="12">
   <data encoding="base64" compression="zlib">
-   eJxjYBjaoI0DQndwDKw7hgsAAHTvAR8=
+   eJxjYBjaoI0DQndwUN/s5TQwc7ADABvCAc4=
   </data>
  </layer>
  <objectgroup name="Moving" width="11" height="12">

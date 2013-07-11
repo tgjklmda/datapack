@@ -13,7 +13,84 @@
  <tileset firstgid="3073" source="../tileset/building-town.tsx"/>
  <tileset firstgid="4097" source="../tileset/building-small.tsx"/>
  <tileset firstgid="5121" source="../tileset/invisible.tsx"/>
- <tileset firstgid="5137" source="../tileset/animation.tsx"/>
+ <tileset firstgid="5137" name="1" tilewidth="16" tileheight="16">
+  <image source="../tileset/animation.png" trans="000000" width="512" height="512"/>
+  <tile id="32">
+   <properties>
+    <property name="Grass" value="true"/>
+   </properties>
+  </tile>
+  <tile id="806">
+   <properties>
+    <property name="animation" value="500ms;4frames"/>
+   </properties>
+  </tile>
+  <tile id="837">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+  <tile id="838">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+  <tile id="839">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+  <tile id="869">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+  <tile id="870">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+  <tile id="871">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+  <tile id="901">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+  <tile id="902">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+  <tile id="903">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+  <tile id="934">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+  <tile id="935">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+  <tile id="966">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+  <tile id="967">
+   <properties>
+    <property name="Reflection" value="true"/>
+   </properties>
+  </tile>
+ </tileset>
  <layer name="Walkable" width="30" height="30">
   <data encoding="base64" compression="zlib">
    eJzt1DEKACAIRuG/+3sKT9rS0BKEiQS+4RvjgVkmyRoZG7p0IflS2Rtbt+qu/ODm7MtOZXSj7eicM95RZK+6/Rt0AQA/mFvL10A=
@@ -21,7 +98,7 @@
  </layer>
  <layer name="Other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztlLENwjAQRT1AoIU2MAMLRNAwR9IghghQMgVOyxLAELAJlJwlW7IuF/tsI5IiX/o628ndcyznhBiuFlnbqbpqbzue5wRTeelg58TeunLOjr35vvcCbogc13zktlUgZsHg4nfwPFUHcAUuwafflvYyjWLZr0zUT3AIUyLHsD/AfIOPMPa5IvKljiUj39Z8IuoZ+A5jnzcO7pqRb+S6z5Rumo3PWTEfAXVCuRQ7lBnLtdkxzBSuEtU3KK2m/XAp/Zu71945app701iRy409C5OHo6+22W8M0+75OOLeRa1JYp3qV1jqH+H2Lk6PovpVilLu88gduUPjih65ofoCwep7iw==
+   eJztlkEOgjAQRXsAdKd79AxegOjGc8DGeAjUpacQtl5CPZOunSad2IxjO20RNvzkZ0ph5pUGBpRK1wXcdlCHapF9O5V7Nd7+OJ8zTO2lxabcnFkbzUGdHWuLuV+Oy2nkflQQZiHg0mvocaoO4Apcgk/dlvYyUX2wkdkQx7Bfmaqf4COMfa6Y/MbEUpBvaz5R9Qx8h7HPGwd3LchHuZ5nTjfDpvusmY+AOqFcjh3KjOXa7BhmCldL+j1aTYfhcuqbuzfeOWric9NaUcqN3QvMo9FXG9cbw7R7Po20d3FzDTPP9Ssq/Y5Ie5ekR3H9KkX/+p8cuSN3CK4akBuqN+DvfIg=
   </data>
  </layer>
  <layer name="Dirt" width="30" height="30">
@@ -61,28 +138,28 @@
  </layer>
  <layer name="Collisions" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJzllrlOw0AQhlfggsLaFBYPEHgFbmgMrwAFb8LRgoQQV4OERAsdVxMpD8H1CvRcBfT8yLE8Wc+M10nYFPzSV8Ta2U+73tnYmCLrppwNKzOocN4zKyPl1Mr4etuCs614W4KzRWp2ImN2I9nbjDNoJuMMKXnNBMGtuYDzcgjeYa932/LeVPCuKN5U8NKac9uNNM8yQXP61ozEBaMe89G8jPk94+LuRZ3afsJ5Q6TuextUuD4Ksc9V9wbNHsbtR8XvqnPljqepujd6zbjtxo223lmMnxOYV/4XDhJjDsEROAYnSfZ8CjXTHbT1uneO79m/guca3IBbcJeU59PW26v3Hp4H8AiewDPjpXG97l3n23Ov8LyBd/ABPpPyfJr3L0P3LKSX7llIL01or88+097LmWF6mOt5rte59+s6fufneorrJWncAuZY7LBk+ffLfaP0620qdbmX+0bhepnrYWlcqtT9l/OcZxNs1WS1YcwXzsk3WGv41/0AXvaAng==
+   eJzllrlOw0AQhlfggsLaFBYPEHgFbmgMrwAFb8LRgoQQV4OERAsdVxMpD8H1CvRcBfT8yLE8Wc+M10nYFPzSV8Ta2U+769nYmCLrppwNKzOocN4zKyPl1Mr4etuCs614W4KzRWp2ImN2I9nbjDNoJuMMKXnNBMGtuYDzcgjeYa932/LeVPCuKN5U8NKac9uNNM8yQXP61ozEBaMe89G8jPk94+LuRZ3afsJ5Q6TuuQ0qXB+F2Oeqe4NmD+P2o+J31Xvljqepujd6zbjtxo223lmMnxOYV/4XDhJjDsEROAYnSfZ8CjXTHbT1uneO77t/Bc81uAG34C4pz6ett1fvPTwP4BE8gWfGS+N63bvOt+de4XkD7+ADfCbl+TTvX4buWUgv3bOQXprQXp99pr2XM8P0MNfzXK9z5+s6fufneorrJWncAuZY7LBk+fPlvlH69TaVutzLfaNwvcz1sDQuVer+W/9ugq2arDaM+cJ78g3WGv51P/2WgZg=
   </data>
  </layer>
  <layer name="WalkBehind" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJzdlrlOw0AQhl1EIkjWpjAJBOgJNbegj6mBcCoVCAqugkMIHgOBItHwDpyChneAN4Gef+VdabFnD5sYS/zSrziznvk8G+8onqfXKTMsQmfE+hFixwafWGpyXVvu6RDrl5acK7G+WfK8rRJ9zyPTsznzmVi7Y3o2Zz449CvZT4Qppsq+J6wyTf1ybft0fEcT75ZG/CSbMxsOXJlHPeM5iyyvL2L71/QjtirODOHbcrKeGpN5Ls94w5L1mrG8UHx/I7hqTOaFBPeF/fQro+v9Z1G/W7elnqO6iLnus+29yku298ok29woQv14twc0rhvm5G7geXvwPnwAHwZRvA85VWFTv1OG2jOO8z2LllF7RePVDNxF5CwJmxRUsDdwlfisVdJze8TcauOzDHZvjnumSp23DTBH/4irKgRzvgBuURpCr8MO/apnT7pG5FFnnjrrs4jNxeJxBlU/rQZZ1KPscx3ecKirnj3pFpFHnXnXsx5nUPVNahP/L9ZEj7JP26zNS9Ps97P2HfkfKWtknbVcY5iV4/An8r/gCVxPZpifabVAMFqO3G96AlMC
+   eJzFlblOw0AURV1EIkiRU5gEAvSEml3Qx9RAWJUKBAVbwfofrCX/wFryD/An0HNHmZEG585iE5MrXSV54/eOnz3zEgRmnYeWReiSrJ8gdmrxmaOm0K3jmnuyfuXIuZHr24Ug2Cnwa15CM1sw38jaY2hmC+azR7+K/UrMmDr7iVhn2voV2i3x+J4h3i2NlTrZgln34Ko8do+u/dYotdm6BDOGH4qd9fSYymP3eB3+tnj3yXqNRF4sf78Trh5TeTHhsnfP6uWhi5z3iEl3CS57b92Wfo5qMub7nF37Ki+59pVNrrnRCw1ibw8ZXLPMyf0oCA7gQ/gIPo7a8QHkVKRt/c5Yas95zvcsWkXtNYPXM3CXkbMibVNUxrOBK+SzWk7P7ZPntYXPItj9OT4zXfq8rYM5/k9cXTGYiz3g9koj6HXUo1/97ClXSR478+yszyO2kIgnGax+Wg2H7R5Vn5vwlkdd/ewpN0keO/O+Zz3JYPVtapH/8w3Zo+rTNWvz0mz491n7gfzPlDWyzlqhCczKSfgL+d/wFL5PZ5ifabVEGE1P7g8uGlb9
   </data>
  </layer>
  <layer name="Other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo2AUjIJRMApGwWACl/kYGK4A8VUs9DW+gXbdKBgFtAf/eRgaBsJeed6BsZdSUMXDwFDNQ33zCJk7Cyg3m4r2wsyjtrmjAD8AABX+EFo=
+   eJxjYBgFo2AUjIJRMApGwWACl/kYGK4A8VUs9DW+gXbdKBgFlIF7vITV/OdhaKC2vf+IsFeel/r20gNU8TAwVPNQ3zxC5s4Cys2mor0w86ht7ijADwCdThJQ
   </data>
  </layer>
  <objectgroup name="Moving" width="30" height="30">
   <object name="border" type="border-bottom" gid="5124" x="240" y="480">
    <properties>
-    <property name="map" value=""/>
+    <property name="map" value="0.5"/>
    </properties>
   </object>
   <object name="border" type="border-left" gid="5124" x="0" y="256">
    <properties>
-    <property name="map" value=""/>
+    <property name="map" value="-1.6"/>
    </properties>
   </object>
   <object name="border" type="border-right" gid="5124" x="464" y="256">
@@ -105,14 +182,14 @@
   </object>
   <object name="door" type="door" gid="5123" x="272" y="464">
    <properties>
-    <property name="map" value="../indoor/"/>
+    <property name="map" value="../indoor/0.5"/>
     <property name="x" value=""/>
     <property name="y" value=""/>
    </properties>
   </object>
   <object name="door" type="door" gid="5123" x="288" y="464">
    <properties>
-    <property name="map" value="../indoor/"/>
+    <property name="map" value="../indoor/0.5"/>
     <property name="x" value=""/>
     <property name="y" value=""/>
    </properties>

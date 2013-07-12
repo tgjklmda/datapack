@@ -113,7 +113,7 @@
  </layer>
  <layer name="LedgesRight" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
+   eJztzcEJACAMALE6mLj/EOIqjmCh9GXyPrgIAACAmp1oTsN3jnezEs2vLn5/Ajs=
   </data>
  </layer>
  <layer name="LedgesLeft" width="30" height="30">
@@ -138,12 +138,12 @@
  </layer>
  <layer name="Collisions" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxrYWFgaAXiFjSaWgDdXBi9BIiXYqGpBXCZj8s91AJD1b9NRLgFmxpK/buICHuxqRn176h/R/076t9R/476d9S/o/4d9e+of0f9S7l/AdTn9O0=
+   eJxrYWFgaAXiFjSaWgDdXBi9BIiXYqGpBXCZj8s91AJD1b9NRLgFmxpK/buICHuxqRn176h/R/076t9R/476d9S/o/4d9e/g8i+5gFL/kgtG4xdCAwCTWvKV
   </data>
  </layer>
  <layer name="WalkBehind" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBgYkMLCwJDKgkkPFfNp5Z4kItyITc2of0f9S08w6t9R/4LAqH+JUzPq31H/0hOM+nfUvyAwXP2LCwxX/9IrfgG/41PS
+   eJxjYBgYkMLCwJDKgkkPFfNp5Z4kItyITc2of0f9S08w6t9R/4LAqH+JUzPq31H/0hOM+nfUv4PZfErdgwuMtPiltn8BD/RTBg==
   </data>
  </layer>
  <layer name="Other" width="30" height="30">

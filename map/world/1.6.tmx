@@ -16,12 +16,12 @@
  <tileset firstgid="5137" source="../tileset/animation.tsx"/>
  <layer name="Walkable" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztzaEBADAMA6D0/xy9PVBbhUDTJP3mWA94vV6v1+v1er1er3d/H7+GjlE=
+   eJztzrENADAMwzDn/x6dGwp4CwfN1CQZqdz77JrbeuF243K5XC6Xy73mLsNtMO0=
   </data>
  </layer>
  <layer name="Other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYGBgyATiHBriXIaBAb2j9o7aO2rvsLK3iQjcTAN7DxGBD9PAXnqAUXtH7R21lzb2ElNekYu/8jAwfOMhv7wiF4vyMjCI8Q6ucB61d9TeUXsptxcAldtGkg==
+   eJxjYBgFo2AUjIKhAZqIwM00sPcQEfgwDewdBaNgqILeUXuJKq/IxV95GBi+8WC3l5jyilwsysvAIMZLeviMglEwCgY3AABqYC5D
   </data>
  </layer>
  <layer name="Dirt" width="30" height="30">
@@ -61,7 +61,7 @@
  </layer>
  <layer name="Collisions" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJzNl0tOAkEQhmsxS9ObOQF6BUEFN8gpCOdgoa5I9AA+WLnVA4ByEF4HQWHvPxHCpKhqppvuwU6+DJlk+Prvqa6GNpUzHhKix2R7bZfkfYfrI9leb3Hvbk09MI2cl+eNOTq5zzxvWV4p77khqjJq4CklegYv4BX0U3+vlLdyQnTKOAMDeIbgE3yB0QFeKa/mHcMzAVMwA/N0d22ydfHN24TjhtECC3i+wQ9YglW6O8dsfr55XQafY6ugN1Q9a7WoeUPtX60mNG+ovFpNaN5D8taxjg2Ba6WmQ+WV1tZW07a8RfZhCC/Pqz17gXlc5rgyft6u+YPn1Z6V+oOPt29kpFrsJXJ/kGrY1js6lncTc7wdyUtH9GrvJuZw6VdL1NrKyPvI5ezl3n39auMtso9sZ69r3sr6+4rso+xez9JrXfI295zlLiPG+evq/S+/nzf/UWJwn/PyvL/cG5wc
+   eJzNlktOAkEQhstklqY3fQLwCj7BDXoNr+HWhEQP4IMdcaUH8LVT7+DrICpsjX9HCZ2iauxqZgYr+UJihK/+orqH4RI1UocF0VExfR025L2A67KYvjbl/S957+F9MLCX2SfPG2rVEa0x1sGxJzoBp+AMDHz+fHjeUK1lojZjBVzBcw1uwC248/J8UmYg5dW8T/A8gxfwCt787GzCXFJmIOXtwbHD2AXv8HyATzACYz/bY+gvxSvltRTvMfSn7eZB1I+UN6e0XYzrPPLOm3dS2k5o3qryajuheefJ28EcuwLbTv7/qvJKs5XmK3l5Xm0nqvbyvNp7N9DHZsSWy/Puux94Xu290v2Q4x04GWkX+4V8P0g7LO1x7NV6rbO+FuQNtSiv9t3UWZb7aoRdGzv5HEnP3lTvX/fVxJtyjrTzk5O39ft5Keco/K1fctda8vZKzqO16nj+Wr1VPX+tXp7X8pvdymNJ3m8DuLRU
   </data>
  </layer>
  <layer name="WalkBehind" width="30" height="30">
@@ -98,7 +98,14 @@
   <object name="bot spawn" type="bot spawn" gid="5122" x="144" y="160"/>
   <object name="door" type="door" gid="5123" x="368" y="352">
    <properties>
-    <property name="map" value="../indoor/"/>
+    <property name="map" value="../indoor/2.7"/>
+    <property name="x" value=""/>
+    <property name="y" value=""/>
+   </properties>
+  </object>
+  <object name="door" type="door" gid="5123" x="368" y="336">
+   <properties>
+    <property name="map" value="../indoor/2.7"/>
     <property name="x" value=""/>
     <property name="y" value=""/>
    </properties>

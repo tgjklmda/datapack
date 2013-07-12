@@ -108,7 +108,7 @@
  </layer>
  <layer name="Grass" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFuAAjB348au+ovaNg8IKRlq5G7R3Nv6NgFIyCUTAKRgE5AABrFALR
+   eJxjYBgFuAAjB348au+ovaNg8IKRlq5G7R3Nv8MJjLR0hc2ekeTf0fw7CkbBwAIAiBIEMA==
   </data>
  </layer>
  <layer name="LedgesRight" width="30" height="30">
@@ -138,17 +138,17 @@
  </layer>
  <layer name="Collisions" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxrYWFgaAXiFjQaHTRhESNGDbq5MHoJEC/FQqODRUTYi00NLvNxuWfUv6P+HfXvqH9H/Tvq31H/jvp3IPzLKMDAwATFzAL0868i0C4lKFbGYu9o/I76l1T/kgso9S+5YNS/EBoAYRH1/Q==
+   eJztz0EKACAIRFEXnTzsIlH3LIg2YiC2/QMyEFI9LSJtj5q2qc5ZZMfee3vsmU7b9MC73s7r/td/8OLFixcvXrx48eLFm/dm8+vNBu/pBfk+9O0=
   </data>
  </layer>
  <layer name="WalkBehind" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBgYkMLCwJDKgkmjgyQsYsSoIdZ8eoFR/476FwRG/UucmlH/jvqXnmDUv4PPv0cFGRiOQfFxQdL0kusekF+eAu16BsXPsdhLK/+yCjEwsEExuxBpesl1z2h6Jk7NUPXvYDWfUvfQ2vzB5l9quYuQuQAOF1t0
+   eJxjYBgYkMLCwJDKgkmjgyQsYsSoIdZ8eoFR/476FwRG/UucmlH/jvqXnmDUv6P+BYFR/xKnZtS/Q8O/g9V8St1Da/MHm3+p5S5C5gIA+oNT3A==
   </data>
  </layer>
  <layer name="Other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztzcEAAAAIBLAQIg4l1jCuxyawKgAA0qYz74Ze4IcDRbsBPQ==
+   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
   </data>
  </layer>
  <objectgroup name="Moving" width="30" height="30">
@@ -173,12 +173,5 @@
    </properties>
   </object>
   <object name="bot spawn" type="bot spawn" gid="5122" x="320" y="256"/>
-  <object name="door" type="door" gid="5123" x="192" y="352">
-   <properties>
-    <property name="map" value="../indoor/0.2b"/>
-    <property name="x" value="6"/>
-    <property name="y" value="10"/>
-   </properties>
-  </object>
  </objectgroup>
 </map>

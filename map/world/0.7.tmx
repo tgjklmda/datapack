@@ -16,12 +16,12 @@
  <tileset firstgid="5137" source="../tileset/animation.tsx"/>
  <layer name="Walkable" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztzbENACAIAEHY36EdAU0IWlxx7X9GRAIArVbB999v1Tzh6+vb++3o3X4nny+/G0Nmi84=
+   eJztzSECACAMxLDb/3k0BoVngkVEVbSSFADwrXV0/3xnfu/+iq9vx3vCdwOwwoII
   </data>
  </layer>
  <layer name="Other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBgF1AbHgPjEANjLxsjAwME4ABaPArqCgUhfIDufAvGLAbDzOQN90zUoH7HjyUsSvAwN9HPNKKAUZANxDgFMC9CNRWwhEC+mkX3D0V5i4i6LBvZi8wsx4CYPA8MtHvrb2wjEzeRbS7a9AxXOtLAXFIZNBHAqDewF+cUFiA8RwIdpYC+5fiEmX9Iib5KbXii1lxIwlOwFAPQoOb4=
+   eJxjYBgF1AbHgPjEANjLxsjAwME4ABaPArqCgUhfIDufAvGLAbDzOQN90zUoH7HjyUsSvAwN9HPNKKA2yEHC9AYLgXjxqL3D1t6bPAwMt3job28jEDfT39phFb+gMGwigFNpYC/ILy5AfIgAPkwDe2kRd4sGwN6FUHvxmUsLew8yEI6boZRHABEzLTY=
   </data>
  </layer>
  <layer name="Dirt" width="30" height="30">
@@ -61,12 +61,12 @@
  </layer>
  <layer name="Collisions" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxrYWFgaAXiFhJpdHAMiI8D8QlMKaxgCdCMpSyk0+iAjZGB4SiQfkKk3bjcTw6A2f2CCLW43E+J3RyMhNVR07+kAGr7l1gwmPzrAeR7ArEXDvcQkicGYPNvBpCfCcRZOMwlJE8MGI1f+gBSy2Vyy290QG75TGr5TWv/YgMh/AwMX/gYGL4CcSg/bfxLrL208q80EFtBsSIPA4MSFCvzQMRo5d9oJP+i20uOf4kFyPY6Au1ygmJnHvLiFwQsgbiKAK4m4C5y/BtJvLdxAnL8Sw17R/07MvxLCqCmf0EAlC+t8GBY3pxJBXupHW/EAmrHG7EAADJnxBg=
+   eJztljtOAzEURd9IUUQRkSIrAFYCaQg1dIgaWAN0CeGzhYiKCb8tAF0+wDb4BNJCzxkpkdDkmfFMPE4KrnRkWbbe9ZWtN1MviDSgnnKMqws96E8uqbqgRlhIP8ZVDEQ6jC+W3qbzZ9HYe2Cx13T+abwXguR9LvOmkeu8tpqnvOvMa7BhOE/Suo20vLvM92DfUDdp3Ub/9+tHafvytH18rKz9OWsf95l3syzytSjyDVtlf3k1Xx95l0oiyyNWSv7yar55593hm7iK19qIKmwH+ec9V77FrSD/fmXy/X0PB8zv/+AwYV3jwSJvy+L/xIXieX36ankbFZEjaMIxnMApnFXc+Wp5Q+q34RKu4Bpu4Nahr5a3Q/0u9KAPj/AEz4587wx5X6n/Bu8wgA/4hKEj30izeM+RZvGeI/0AENDgAg==
   </data>
  </layer>
  <layer name="WalkBehind" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBgYkMLCwJDKMmrvSLKXA8jnBGIuHO4hJE8u0ACapwnEWjjMJSRPDBiocB4oMFL9S216sAJa+9OYn4HBBIi/8DEwfAViUyDbjJ/2/grGYkcYP+39i8teWoNioB0lQCwCxKJAXArEZWT4l1QwGWjHFCT/TQWyp9HBv7jAcMmXxIJR/44M/44UMNL8O1AAAEyUPyE=
+   eJxjYBgYkMLCwJDKMmrvSLKXA8jnBGIuHO4hJE8u0ACapwnEWjjMJSRPDBiocB4oMFL9Syt6sAFa+9eYn4HBBIi/8DEwfAViUyDbjJ/2/grGYkcYP+39i8teWoNioB0lQCwCxKJAXArEZXTw72SgHVOQ/DcVyJ5GB//iAoM1n9EKjPoXyBdmYEgD4nQgzgDiTCDOAuJs4YFxIzXBaPyOAloAAGLMPzo=
   </data>
  </layer>
  <layer name="Other" width="30" height="30">

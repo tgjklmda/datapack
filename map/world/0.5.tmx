@@ -108,7 +108,7 @@
  </layer>
  <layer name="Grass" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
+   eJxjYBgFIxkwcqDiUXuxq6eXvdQOl4GydxSMglEwCkbBKBgFo2AUDA0AAII5AQ8=
   </data>
  </layer>
  <layer name="LedgesRight" width="30" height="30">
@@ -143,12 +143,12 @@
  </layer>
  <layer name="Collisions" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYKAMKPIwMChBsTIPhYbRwd4WFgaGVhZMugmIa4DydXhwAxZ7a5DkmrCYC6OXAPFSLPQiFuLc7Qi0ywmKndH8uwiP+fj8SymgpX/xgVH/jvoXnaYWINW/1AKj/h3176h/KQej/h3176h/KQej/h2Z/gUA79Ha0Q==
+   eJxjYKAMKPIwMChBsTIPhYbRwd4WFgaGVhZMugmIa4DydXhwAxZ7a5DkmrCYC6OXAPFSLPQiFuLc7Qi0ywmKndH8uwiP+fj8SymgpX/xgVH/jvoXnaYWINW/1AKj/h3176h/KQej/h2c/h1p9dFI8y+1wFBJz9QCg82/AArj34E=
   </data>
  </layer>
  <layer name="WalkBehind" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYCAfFPMzMJQAsQgQiwJxKRCX8ROnN4WFgSGVBZNOYiGsdzLQjilI9kwFsqch8ZOwmAujBwpQ4l8Y2MnDwLCLB1Oc1v69CbTzFhZ78QFq+BcXGK7xiwsMJf8OFfMHm3tG/TvqX3qCUf+O+ncwmz/Y3DPq38HlX1qbP9j8S6/4BQDbd1QT
+   eJxjYCAfFPMzMJQAsQgQiwJxKRCX8ROnN4WFgSGVBZNOYiGsdzLQjilI9kwFsqch8ZOwmAujBwpQ4l8Y2MnDwLCLB1Oc1v69CbTzFhZ78QFq+BcXGK7xiwsMJf8OFfMHm3tG/TvqX3qCUf+OTP+OtPpopPl3qJhPqXtobf5g8y+94hcAeVFVqw==
   </data>
  </layer>
  <layer name="Other" width="30" height="30">

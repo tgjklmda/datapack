@@ -10,18 +10,18 @@
  <tileset firstgid="1" source="../tileset/terra.tsx"/>
  <tileset firstgid="1025" source="../tileset/wood.tsx"/>
  <tileset firstgid="2049" source="../tileset/rename.tsx"/>
- <tileset firstgid="3073" source="../tileset/building-town.tsx"/>
- <tileset firstgid="4097" source="../tileset/building-small.tsx"/>
+ <tileset firstgid="3073" source="../tileset/building-small.tsx"/>
+ <tileset firstgid="4097" source="../tileset/building-town.tsx"/>
  <tileset firstgid="5121" source="../tileset/invisible.tsx"/>
  <tileset firstgid="5137" source="../tileset/animation.tsx"/>
  <layer name="Walkable" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztzTENADAMA7CE6vAU9O4hmCr58O0mKV+dvrwAsNd4vV7vovcCSnoOFg==
+   eJztzSEBADAMA7DW6v2LGJ6BnQQEp0nKV6+bFwAAuDAyLAgd
   </data>
  </layer>
  <layer name="other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo4B+IJERUywZi9goGFrgIRA/woEf09BeRmDaYQFiJSxYmcx09ZWHgeEbD2F7mamcbkV5GRjEeOlvLzaAHoeqdLKXmvE4CggDNiBmR8McdLBXDYuYBg3syQbiHCS+GxC7o2EPGtjbTQMzR+0dtXfU3lF7aWkvAI35GHw=
+   eJxjYBgFo4B+IJERUywZi9goGFrgIRA/woEf09BeRmDaYQFiJSxYmcx09ZWHgeEbD2F7mamcbkV5GRjEeOlvLzaAHoeqdLKXmvE4CggDNiBmR8McdLBXDYuYBh3sdQNidzTsQQd7R8EoGAWjYLADAAPrEaw=
   </data>
  </layer>
  <layer name="Dirt" width="30" height="30">
@@ -66,12 +66,12 @@
  </layer>
  <layer name="Collisions" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztlUEKwkAMRaO4cDG4VLf1EOK2HsK68Tb1FOJOD+ZNDOjAmBJmfmbaQvHDJ6vw8/pp2y6Irux24PlgP0eY2j1rItoIb6l/3j11daD+ebXcqfF6ndiN8Dm4QdvTFONNFbp3W/069d5czRzRPDDKieq1/MyKs3aBrbxovzLXyov2W3PWMbBVqbz+Ocs9q3LfA1Ror9o+Kiun3I/lx76zqOT3KnafNlGNxXsR+bH7SvH63Nz/qCW3cvb/Zw5v7fJ50Sn7HWqW6tfCW6JfC++/3+n2e//2+wYD0URs
+   eJxrYWFgaAXiFjrTS4B46QDQuNwjxsDAII6GJRho718zBkxgwUB7/+Kyd7j5FwbCgDgcDUcguQGXPlyAkH+JBaTqm82Hiol1L6WAkYeBgQkJk+pPUsFDDgitCLRLCQmT619S4xfdXnL9S2r8OgLtckLC5AJi/QsLZ3R95AJK8wGpgNR4xaWfVECuP9H1E7KfUDlLKkAvrwi5DxdNKhjp/iWXptS/5NID5V9qtzdoTY/6d9S/w8m/AIdTTK4=
   </data>
  </layer>
  <layer name="WalkBehind" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBhYkMLCwJDKgqCJVUcuPVCAVPcMN//SSt9A+LeEj4GhFA3T2v6FHAwMU4D2TEXDtAYHgfZuAdqzFQ2T619y46uCh3S7yAGgcEYGMyi0l1j/HkSzd6DzL6mA0nw40P6ltDymtn20BvT2ryz5TqUYsPMRX19Ssx5Vp0P5jA24U8G/Q6WdAQJSA+RfqwGK3yg6tDcGExAfoPg1H6D4DR8ge0EAAKRhYm8=
+   eJxjYBhYkMLCwJDKgqCJVUcuPVCAVPcMN//SSt9A+LeEj4GhFA3T2v6FHAwMU4D2TEXDtAYHgfZuAdqzFQ2T619y46uCh3S7yAGgcEYGMyi0l1j/HkSzd6DzL6mA0nw40P6ltDymtn20BiPVv/SqR4e6f4d6e2PUv6P+Hcr+HSgAAPB7b48=
   </data>
  </layer>
  <layer name="other" width="30" height="30">

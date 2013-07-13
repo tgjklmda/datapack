@@ -98,7 +98,7 @@
  </layer>
  <layer name="Other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxbw8DAsGYAMDXATh4Ghl08VDKMBHATaOetAbB3FIyCoQxsmBgYbKHYjmnU3lF7R+0dtXfU3pFiLxsQs6NhDiCOAdoVC8VxTLjVkQvUsIhpUKCOWOAGxO5o2IMCddQAaoxAPzHSxuyJIqg0MnAD2umBw15s6sm1m1h78bmVGgCff2kJKLUXAM+MMHk=
+   eJxjYBi6YCcPA8MuHvrbexNo560BsHcUjIKhDGyYGBhsodiOadTeUXtH7R21d9TekWIvGxCzo2EOII4B2hULxXFMuNWRC9SwiGlQoI5Y4AbE7mjYgwJ11ABqjEA/MdLG7IkiqDQycAPa6YHDXmzqybWbWHvxuZUaAJ9/aQkotRcA3cMcUQ==
   </data>
  </layer>
  <layer name="Dirt" width="30" height="30">
@@ -143,7 +143,7 @@
  </layer>
  <layer name="Collisions" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYKAMKPIwMChBsTIPhYbRwd4WFgaGVhZMugmIa4DydXhwAxZ7a5DkmrCYC6OXAPFSLPQiFuLc7Qi0ywmKndH8uwiP+fj8SymgpX/xgVH/jvoXnaYWINW/1AKj/h3176h/KQej/h2c/h1p9dFI8y+1wFBJz9QCg82/AArj34E=
+   eJxrYWFgaAXiFjJpRR4GBiUoVuYhXt8SIF5KAY1uL7H6cLmnCYhrGBgY6vDgBgZMe2uQ5JrI8O8iICYGOALtcoJiZx5UuUVk+pdSQEv/4gOj/h31LzpNLUCqf6kFRv076t9R/1IORv07OP070uqjkeZfaoGhkp6pBQabfwHtD/57
   </data>
  </layer>
  <layer name="WalkBehind" width="30" height="30">

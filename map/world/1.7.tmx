@@ -16,12 +16,12 @@
  <tileset firstgid="5137" source="../tileset/animation.tsx"/>
  <layer name="Walkable" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztzbENAAAIA6D2f4/2C+PAwEyTFAA4NV6v1+v1PngXiZ0LHw==
+   eJztwwENAAAMw6DOv+kLOSSsmqqqqu8ezqADhQ==
   </data>
  </layer>
  <layer name="Other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztzTENAAAIwDAEgxQ8gwsOumR3IyRJ+lvudWQ3l8vlcrnH7gABEwiQ
+   eJztzbENAAAIw7Dy/9Ms/NABR8rsRJKkv83dsrlcLpfLbboLTRwAEQ==
   </data>
  </layer>
  <layer name="Dirt" width="30" height="30">
@@ -61,12 +61,12 @@
  </layer>
  <layer name="Collisions" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztz1EKwCAMA1AFj7nj6C38dPec32WBWsyEkUDJX8mrJaU2rzo7GvtnzLsXOhr7x+v8ixftYXvRHnnl3eFFu9hetEveWOR938Nur3N3y/tNX/mMt+cz3i6vvEQvO8jLjvU+AIJVTw==
+   eJzt0zEKACAMBEELnx5/ov80TZqAZS4gu3CkniI2x1g+E9/tOw1X7ez2RmpvhBdvhVftzuHFy//ixYsX7//e6l7e6rL3Auia1Xo=
   </data>
  </layer>
  <layer name="WalkBehind" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBjeIIWFgSGVBUEPdzDq3+ENRv07vMGofweXe2hNDzQY9e+of0f9O+rfoeJfWoOR7l8A9ghTRw==
+   eJxjYBgYkMLCwJDKQn96oMGof0f9O5z8CwOj/h3173Dw70jLv6P+HfXvqH9H/TtU/EtrMNL9CwBg3ZY5
   </data>
  </layer>
  <layer name="Other" width="30" height="30">

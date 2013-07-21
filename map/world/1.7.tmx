@@ -56,22 +56,22 @@
  </layer>
  <layer name="Water" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
+   eJztzcEJAEAIBLFtQbj+a/VhD3JgBuadZKq3e7hcLpfL5XK5XC73U/dKDffgcVE=
   </data>
  </layer>
  <layer name="Collisions" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJzt0zEKACAMBEELnx5/ov80TZqAZS4gu3CkniI2x1g+E9/tOw1X7ez2RmpvhBdvhVftzuHFy//ixYsX7//e6l7e6rL3Auia1Xo=
+   eJztz7ENACAIBVEKR8dNcE9pXOEovEsI5c/LFbH76Ko3z8Bu6kXSy6SXSS+TXia9THqZ9DL96qX/89L/AjIvRRs=
   </data>
  </layer>
  <layer name="WalkBehind" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBgYkMLCwJDKQn96oMGof0f9O5z8CwOj/h3173Dw70jLv6P+HfXvqH9H/TtU/EtrMNL9CwBg3ZY5
+   eJztz7ENACAQw8AUPyrsvwIVKxDJ2E3K6JJOa5I9pfNCetnpZaeXnV52etnpZXe9r/c37wH5vyMc
   </data>
  </layer>
  <layer name="Other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
+   eJztzUENAAAIBKDr39A2Pgyhm1CAZFR2eL1er9fr9Xq9Xu+194sG7OoXvQ==
   </data>
  </layer>
  <objectgroup name="Moving" width="30" height="30">

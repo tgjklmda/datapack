@@ -123,7 +123,7 @@
  </layer>
  <layer name="LedgesBottom" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztzrEJADAMBLH3HiFk/yndZAa7keD6SwBmnEru79X2DQAADbTIAH0=
+   eJztzrENACAQA7FkD4TYf0oKdngau7ryEoAZq8nu69O/LwAAJBeLUgBe
   </data>
  </layer>
  <layer name="LedgesTop" width="30" height="30">

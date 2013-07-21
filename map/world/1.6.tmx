@@ -21,7 +21,7 @@
  </layer>
  <layer name="Other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo2AUjIKhAZqIwM00sPcQEnYFYhc0MRA+TAN7kcFCIF4MxJ5AvAYNe9HB3l4sct10sneiCEIcxKaHvZlAnIOGs+hgL7VBE8vA2IstvYw0e5HLpVQgTmEgrgwjBn/lYWD4xoPdXvSyiZpYlJeBQYyX9PAZBaNgFAxuAADgxEDz
+   eJxjYBgFo2AUjIKhAZqIwM00sPcQEnYFYhc0MRA+TAN7kcFCIF4MxJ5AvAYNe9HB3l4gduVAleumk70TRRDiIDY97M0E4hw0nEUHe6kNmlgGxt5eAvIjwV7kcikViFMYiCvDiMFfeRgYvvFgtxe9bKImFuVlYBDjJT18RsEoGAWDGwAAP0lBQA==
   </data>
  </layer>
  <layer name="Dirt" width="30" height="30">
@@ -61,17 +61,17 @@
  </layer>
  <layer name="Collisions" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJzlljtOw0AQhseSC4pkG5/AcAXe0JhcA+UWtEhBcAAe6RAFggPwaiBwB14HAZIW8a/slZbNzMZr2abglz45shz/849n1ybKtR8THcTtHY0u8Psybu9I/yzvYxTGdlRPf7QWFdGSwzI4TIiOwDE4AUNwGtXTH620QzTvsACu4HMNbsAtuAMjoQdV8kq+z/B5Aa/gDbwn073RfdE9qJI3g8eWQw98wOcTfIExmCTTNer6TO8l7XnmuazcGnV9XO81u0U95571GyppFm2dRfXlNZJmgvOtM680E5xvaF73mnX0cYNhU/H/r5rXvYbrrd3f1DnnyyvNBKeqvlxeaSZWUMeqxZqa7Ws/817hu6Ny3LySL7c/zPJ1pX2HioebxUHM7w/cDHNzbPtKtTah/lx+/G7Z19Zf+UrPpgmZPvcD9qsxZm2i+HXEvXt9CtmvjG+ZdSStH9e3TN60uF+ZdaTPDZx73HeJHsCoG5Y386zHMkqtXjTx/g3xrfP9Kynr/N6ftbi8od/tITx58v4APWAWQA==
+   eJzFlklOw0AQRStSFl4k3vgEhiswwybkCsAK5RZskRInB2DIDmWB4ABMGwjcgekgQLJF/CJu0bSrHbcz+EtPjqxO//7lcrfbZaIOaM/5egEuC7jOO2fReR9LbuwD1qR5Ox7Rkk+0bLACjgKiY3ACTkEXnMW+k+ZlhRWiBYNFcAWfa3ADbsEd6Ftq4Jo3zfcZPi/gFbyB9yBZG64L1yBP3ho8tg3q4AM+n+ALDMAwSK6R16dqb1PLkjeruBfMNfL6pNozh/F6zi15XdT2RldbL0be39heaTp5ddl6Qolr05tiXiVbTyhFXv685pgN1HFTYMuX/583rzlGqq1e39C4l5ZX74lxyusr5ZV6grWKdaxprPvjffVnXo99D/wRZl6br7Q/jPM1xb5dX0bqxWZZ3h+kHjb/a/ra1joLNeK943vOvrqK8rU9m1lI1bnhsF8N0GtDX36PpLM3TS77lfLN8h7Z3h/TN0veMJ4vy3vE95rGHPdVogfQr6bn3cE3xC7YC0Zjamo+7Rzl3y2PEoqEe6FWi1mcvzZJvnnOX84p5bKpVvm/P//OIeR1/W534Skl7w9xqiLB
   </data>
  </layer>
  <layer name="WalkBehind" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBhYkMLCwJDKQj96qAFq+FeEj4FBFA2LAXGhMANDERAXA3EJEJcKD6xfsQFy/BsC9FsoGg7jw24+etiI4VBHCojjQaWpBZKokJ7RwwZXuNAK4EqL2AA1/DvQgJS0SKp/0dVIAc2VxoJl6BzH6EAKh1uw+ZeUfBgFVBONBcdA9VoBaWsotiEzDMSB+iSQsCTUHPQ8jpzXo7C4BZd/ScmH7DjKEw4c4iVIZpbyoWJcIBNoVgQfAoP46jzY/auBZq8cB4SeQkZYd/Jg8t1x+MsDTdwOau8WoL1bceDhBGDhTG9gh2YvKeUVtnxEi7oXBD4jmfONinFPyL/I9obzoeajSGheQq4HMrGk71m8DAyzgXgOL/HuEuYHhiUQiwKxGD+mPLa8RQygR/17C+jP20B8hwT/UgP8Atr3G4j/INk7HNobpAJ0/wIAx0hkAw==
+   eJxjYBgYkMLCwJDKQn96qAFq+FeEj4FBFA2LAXGhMANDERAXA3EJEJcKD6xfsQFy/BsC9FsoGg7jw24+etiI4VBHCojjQaWpBZKokJ7RwwZXuNAK4EqL2AA1/DvQgJS0SKp/0dVIAc2VxoJl6BzH6EAKh1uw+ZeUfBgFVBONBcdA9VoBaWsotiEzDMSB+iSQsCTUHPQ8jpzXo7C4BZd/ScmH7DjKEw4c4iVIZpbyoWJcIBNoVgQfAoP46jzY/auBZq8cB4SeQkZYd/Jg8t1x+MsDTdwOau8WoL1bceDhBGDhTG9gh2YvKeUVtnxEi7oXBD4jmfONinFPyL/I9obzoeajSGheQq4HMrGk71m8DAyzgXgOL/HuEuYHhiUQiwKxGD+mPLa8RQygR/17C+jP20B8hwT/UgP8Atr3G4j/INk7HNobpAJ0/wIA31lk1A==
   </data>
  </layer>
  <layer name="Other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFIwnc5x0Ye/8PkL2jABVU8TAwVPPQ395ZQDtnD4C9gw0MRPj/5xmY8JcfBnkeGHYNpOrhBOqp5IGzyQLAsCPZXk+gvTN54GyCIA6LmnA+CA1Lp5F8pLqCMjBaTgwfcBmYdq4A8VUgvkbndDTQ4BsfZlkfghYGYTQKE3LyEDnlHDUAOeUctUDlAJUzMwdx+QYAxh4buA==
+   eJxjYBgFIwnc5x0Ye/8PkL2jABVU8TAwVPPQ395ZQDtnD4C9gw0MRPj/5xmY8JcfBnkeGHYNpOrhBOqp5IGzyQLAsCPZXk+gvTN54GyCIA6LmnA+CA1Lp5F8pLqCMjBaTgwfcBmYdq4A8VUgvkbjdPRFiIHhKxB/E6KtPehARJiBQRSIxYRRxb/xYZb1IWhhEEZBmJgA7TMFYjNhTDly8hA55Rw1ADnlHLVA5QCVMzMHcfkGAB1EIB0=
   </data>
  </layer>
  <objectgroup name="Moving" width="30" height="30">
@@ -99,15 +99,25 @@
   <object name="door" type="door" gid="5123" x="384" y="352">
    <properties>
     <property name="map" value="../indoor/2.6"/>
-    <property name="x" value=""/>
-    <property name="y" value=""/>
+    <property name="x" value="1"/>
+    <property name="y" value="5"/>
    </properties>
   </object>
   <object name="door" type="door" gid="5123" x="384" y="336">
    <properties>
     <property name="map" value="../indoor/2.6"/>
-    <property name="x" value=""/>
-    <property name="y" value=""/>
+    <property name="x" value="1"/>
+    <property name="y" value="5"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="Object" width="30" height="30">
+  <object type="bot" gid="5123" x="16" y="448">
+   <properties>
+    <property name="file" value="../bots.xml"/>
+    <property name="id" value="2"/>
+    <property name="lookAt" value="top"/>
+    <property name="skin" value="market"/>
    </properties>
   </object>
  </objectgroup>

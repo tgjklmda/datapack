@@ -21,7 +21,7 @@
  </layer>
  <layer name="other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYKA+YGRkYGBmpIHBBIAi0E7lAbB3FAx9wAbE7FDMQUd71ZDYGnS01w2I3aHYg8Z22TAxMNgx0dgSLCAGau+uAbKXEEBOc9RId7+QMD6ghsanNN2B/BtHhH+R0xw90t0oGAWjYBSMglEwCogDADkGCcc=
+   eJxjYKA+YGRkYGBmpIHBBIAi0E7lAbB3FAx9wAbE7FDMQUd71ZDYGnS01w2I3aHYg4720hPEMDEw2AHxrgGylxBATnPUSHe/kDA+oIbGp1e6Q05zwzndjYJRMApGwSgYBUMNAACu2QiL
   </data>
  </layer>
  <layer name="Dirt" width="30" height="30">
@@ -61,7 +61,7 @@
  </layer>
  <layer name="other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo2AUjILBC34hYXLALjxyUoyo5sPwbzLtItYOWphvw8TAYMdEGzuQ7aGV+QxQcw2B2IjG9oyCUTAKRsEoGAWjAAEA3c0bcQ==
+   eJxjYBgFo2AUjILBC34hYXLALjxyUoyo5sPwbzLtItYOWpgfw8TAEMdEGzuQ7aGV+QxQcw2B2IjG9oyCUTAKRsEoGAWjAAEA7msbsQ==
   </data>
  </layer>
  <layer name="Collisions" width="30" height="30">
@@ -76,7 +76,7 @@
  </layer>
  <layer name="other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo2AUjILhB2yYhoe9gkAsRF0jB7W9o2AUjIJRMApGwSigLwAAoxYAww==
+   eJztzUEJAAAIADEraP+wmkIEN7j3RQBwVU716AsA7GpKvgBH
   </data>
  </layer>
  <objectgroup name="Moving" width="30" height="30">

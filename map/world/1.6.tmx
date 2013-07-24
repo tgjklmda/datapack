@@ -66,12 +66,12 @@
  </layer>
  <layer name="WalkBehind" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBgYkMLCwJDKQn96qAFq+FeEj4FBFA2LAXGhMANDERAXA3EJEJcKD6xfsQFy/BsC9FsoGg7jw24+etiI4VBHCojjQaWpBZKokJ7RwwZXuNAK4EqL2AA1/DvQgJS0SKp/0dVIAc2VxoJl6BzH6EAKh1uw+ZeUfBgFVBONBcdA9VoBaWsotiEzDMSB+iSQsCTUHPQ8jpzXo7C4BZd/ScmH7DjKEw4c4iVIZpbyoWJcIBNoVgQfAoP46jzY/auBZq8cB4SeQkZYd/Jg8t1x+MsDTdwOau8WoL1bceDhBGDhTG9gh2YvKeUVtnxEi7oXBD4jmfONinFPyL/I9obzoeajSGheQq4HMrGk71m8DAyzgXgOL/HuEuYHhiUQiwKxGD+mPLa8RQygR/17C+jP20B8hwT/UgP8Atr3G4j/INk7HNobpAJ0/wIA31lk1A==
+   eJxjYBgYkMLCwJDKQn96qAFq+FeEj4FBFA2LAXGhMANDERAXA3EJEJcKD6xfsQFy/BsC9FsoGg7jw24+etiI4VBHCojjQaWpBZKokJ7RwwZXuNAK4EqL2AA1/DvQgJS0SKp/0dVIAc2VxoJl6BzH6EAKh1uw+ZeUfBgFVBONBcdA9VoBaWsotiEzDMSB+iSQsCTUHPQ8jpzXo7C4BZd/ScmH7DjKEw4c4iVIZpbyoWJcIBNo1lcRBoYIPggG8dV5sPtXA81eOQ4IPYWMsO4EmiUqisp3x+EvDzRxO6i9W4D2bsWBhxOAhTO9gR2avaSUV9jyES3qXhD4jGTONyrGPSH/ItsbzofIQyAcCc1LyPVAJpb0PYuXgWE2EM/hJd5dwvzAsARiUSAW48eU7+TBz8cF6FH/3gL68zYQ3yHBv9QAv4D2/QbiP0j2Dof2BqkA3b8AlqVloQ==
   </data>
  </layer>
  <layer name="Other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFIwnc5x0Ye/8PkL2jABVU8TAwVPPQ395ZQDtnD4C9gw0MRPj/5xmY8JcfBnkeGHYNpOrhBOqp5IGzyQLAsCPZXk+gvTN54GyCIA6LmnA+CA1Lp5F8pLqCMjBaTgwfcBmYdq4A8VUgvkbjdPRFiIHhKxB/E6KtPehARJiBQRSIxYRRxb/xYZb1IWhhEEZBmJgA7TMFYjNhTDly8hA55Rw1ADnlHLVA5QCVMzMHcfkGAB1EIB0=
+   eJxjYBgFIwnc5x0Ye/8PkL2jABVU8TAwVPPQ395ZQDtnD4C9gw0MRPj/5xmY8JcfBnkeGHYNpOrhBOqp5IGzyQLAsCPZXk+gvTN54GyCIA6LmnA+BoYIPkQ6jeQj1RWUgdFyYviAy8C0cwWIrwLxNRqnoy9CDAxfgfibEG3tQQciwgwMokAsJowq/o0Ps6wPQQuDMArCxARonykQmwljypGTh8gp56gByCnnqAUqB6icmTmIyzcAf7wggw==
   </data>
  </layer>
  <objectgroup name="Moving" width="30" height="30">
@@ -108,6 +108,20 @@
     <property name="map" value="../indoor/2.6"/>
     <property name="x" value="1"/>
     <property name="y" value="5"/>
+   </properties>
+  </object>
+  <object name="door" type="door" gid="5123" x="144" y="144">
+   <properties>
+    <property name="map" value="../indoor/1.6a"/>
+    <property name="x" value="5"/>
+    <property name="y" value="10"/>
+   </properties>
+  </object>
+  <object name="door" type="door" gid="5123" x="112" y="304">
+   <properties>
+    <property name="map" value="../indoor/1.6b"/>
+    <property name="x" value="5"/>
+    <property name="y" value="10"/>
    </properties>
   </object>
  </objectgroup>

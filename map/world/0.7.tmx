@@ -92,36 +92,36 @@
   </object>
   <object name="border" type="border-top" gid="5124" x="240" y="16">
    <properties>
-    <property name="map" value="0.8"/>
+    <property name="map" value=""/>
    </properties>
   </object>
   <object name="bot spawn" type="bot spawn" gid="5122" x="368" y="320"/>
   <object name="door" type="door" gid="5123" x="416" y="304">
    <properties>
-    <property name="map" value="../indoor/"/>
-    <property name="x" value=""/>
-    <property name="y" value=""/>
+    <property name="map" value="../indoor/0.7"/>
+    <property name="x" value="6"/>
+    <property name="y" value="9"/>
    </properties>
   </object>
   <object name="door" type="door" gid="5123" x="432" y="304">
    <properties>
-    <property name="map" value="../indoor/"/>
-    <property name="x" value=""/>
-    <property name="y" value=""/>
+    <property name="map" value="../indoor/0.7"/>
+    <property name="x" value="7"/>
+    <property name="y" value="9"/>
    </properties>
   </object>
   <object name="door" type="door" gid="5123" x="416" y="240">
    <properties>
-    <property name="map" value="../indoor/"/>
-    <property name="x" value=""/>
-    <property name="y" value=""/>
+    <property name="map" value="../indoor/0.7"/>
+    <property name="x" value="6"/>
+    <property name="y" value="3"/>
    </properties>
   </object>
   <object name="door" type="door" gid="5123" x="432" y="240">
    <properties>
-    <property name="map" value="../indoor/"/>
-    <property name="x" value=""/>
-    <property name="y" value=""/>
+    <property name="map" value="../indoor/0.7"/>
+    <property name="x" value="7"/>
+    <property name="y" value="3"/>
    </properties>
   </object>
  </objectgroup>

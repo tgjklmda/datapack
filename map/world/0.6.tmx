@@ -201,6 +201,20 @@
     <property name="y" value="5"/>
    </properties>
   </object>
+  <object name="door" type="door" gid="5123" x="176" y="128">
+   <properties>
+    <property name="map" value="../indoor/0.5"/>
+    <property name="x" value="5"/>
+    <property name="y" value="3"/>
+   </properties>
+  </object>
+  <object name="door" type="door" gid="5123" x="368" y="304">
+   <properties>
+    <property name="map" value="../indoor/0.6b"/>
+    <property name="x" value="5"/>
+    <property name="y" value="10"/>
+   </properties>
+  </object>
  </objectgroup>
  <objectgroup name="Object" width="30" height="30">
   <object type="bot" gid="5123" x="352" y="160">

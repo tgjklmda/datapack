@@ -98,7 +98,7 @@
  </layer>
  <layer name="Other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztldENgjAQhjsA+qbv6AwuQHQT2AN1Essk6kz67DWhSfNzsUdbSqL8yZ8rDXffQcqhVLxu5C5BHdSuGHpqbskwjfcOG7kl0xvmSBTyvBx3rP6NWwGzEnDxHryO1ZnckGvyNW1pL9MqB9syNTiE/S5U+yJfaO1zw+TrPtaCfFfblWo35AetfT594R4F+aG692x8z4b5jKgbws7BRHZOppX0f3RYz8NNrSm4pqY9N50TpdzQnmweRl9t228I0535GHF2cXua2efmFcp8I9LZJZlRKeaVq186zwt34aoZuWP1Ae7VdDY=
+   eJztldENwiAQhhmg+qbv1RncQDdp92h1Eukk4kz67JH0EvKXyAmUJqZ/8ueAcPfRhl6VStedPGSogzpUU8/NrT1M66PDRm7tORvmSKSBqQXPi3twvnKnMsA1Ai7uwXmqenJLbsi3vKWDTFYJNjM1OIb9rlT3Il9pHHLryddjbAT5rvYb1e3IhsYhX75wz4L8WD1GNr5ny3wm1I1hl2AiuySTJf0fnbbLcHNrDq6tyfdmcKKUG3smzsMYqs3njWG6PR8j9i7fmvas+/oVyn4j0t4l6VE5+pWrf7rPK3flqgW5v+oDZFd8Ng==
   </data>
  </layer>
  <layer name="Dirt" width="30" height="30">
@@ -138,7 +138,7 @@
  </layer>
  <layer name="Collisions" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJzNljtOw0AQhhdIYaTIKXyCwBV4QxO4AnQIuAcV4EgI8WqCkKCEjlcTlAJuQICD8Cqg5185lofJzNoWiZVf+hTb2Zlfs7uzdlgypg6szodMIbI+F/C8VHy3PGNOfR1NDV8n9glZvTteEr+N65bi2XL4NhXPJvHl9VJfq2o5gmq8HKEpjhkj0Ji0evvl+5Cyvv3ytYrr3fRl35riu+TwrSm+NObM/4uWZ5Hg8swaM1xOGMmSbzS5XvO6/6fP6FguPhdavl5L8i1CeddN0jrmZyPnHNH+Xe3s5yLmOa1/qXYxbq+U3KftKz6eip9XRclV7zT6eUZh1vFe2A+MOQCH4AgcB9HzCcRMdnDVy8+crHv/Cj7X4AbcgrugOx+vNyTrY8c1wInw6/J9gk8bPIMX8Cr48nrrXoSVPeua4F74dfXcG3zewQf4BF9Bki/u2Tz7uZcaxP3cTw16vbT3YqaEHpZ6Xup1qV7uYfNLvSz1kjZuDjnmOyz4cr3SN8p/favsXqpX+kbhz7T3pjauxu6zrG9IzpJeaRD2s/2efszJcsWYb+yTH7BSyR73CzL4pJ8=
+   eJzNlrlOxDAQhg1sESQrW+QN4BW4oQFeAToEvAcVkJUQ4mpASNAsCx1XAxUUu7RcD8JVQM9vNpGNd8ZJIBvtL33K5Zlfk3gchyUhKkDpsEsUIuVzDM8TxnfZE2Lf5+G06/PEPqFV76qn41dwXpW0Z03yviqG8oxjqHpN3ziH4sigJpN9XTFJ9bbL9ybh+7bLVymud8mnfetMjjuHb5qYA/83XJ6GgcszbUy31PSkyDfZq8/nvdbn5j1zrK0+qemXfL68RfkWoSmpmf6j7wLez2LGd2T271w0n4t4z0n9a2oN49ZL+jppXtnjTdnrVVFy1TuMfh5hGHX8jzYCITbBFtgGO0Hz/gBiBiNc9dprjr3+cDqFzxk4BxfgMmjNZ9cbGt/n538G9oijy/cePg/gETyBZ8LXrrfiNVFSa90VuCaOrrXyBT6v4A28g49A54vXzSzzOU914nxupzq9XrP3YoaIHqZ6nup1ql7bQ+WnepnqJW7cGHKMR0z4dL3UHuW/vlXrmqqX2qPY97j9Djeubl2n+b6hsZbkpU6Yz2o/fZuRmbIQn5gnX2C2nD7uGzCL7O0=
   </data>
  </layer>
  <layer name="WalkBehind" width="30" height="30">

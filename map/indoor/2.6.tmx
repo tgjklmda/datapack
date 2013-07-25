@@ -116,13 +116,6 @@
   </object>
   <object name="teleport on push" type="teleport on push" gid="1027" x="160" y="96">
    <properties>
-    <property name="map" value="../world/0.6"/>
-    <property name="x" value="25"/>
-    <property name="y" value="11"/>
-   </properties>
-  </object>
-  <object name="teleport on push" type="teleport on push" gid="1027" x="160" y="96">
-   <properties>
     <property name="map" value="../world/2.6"/>
     <property name="x" value="2"/>
     <property name="y" value="21"/>

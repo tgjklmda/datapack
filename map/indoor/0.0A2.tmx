@@ -76,9 +76,10 @@
    </properties>
   </tile>
  </tileset>
+ <tileset firstgid="3089" source="../tileset/rename.tsx"/>
  <layer name="Walkable" width="11" height="12">
   <data encoding="base64" compression="zlib">
-   eJxbzMDAsBiI2YnAi6FYnQjcOIoHDSYFAACIATYO
+   eJx7wsDA8GQUD2tMCgAARadrxQ==
   </data>
  </layer>
  <layer name="Other" width="11" height="12">
@@ -88,7 +89,7 @@
  </layer>
  <layer name="Collisions" width="11" height="12">
   <data encoding="base64" compression="zlib">
-   eJzjYGBg4CASa5CAYcAOqNEeiJ2B2IWDAQM0YREbBdQFi0nAADPlCsA=
+   eJzjYGBg4CASa5CAQWAiDwODHVCjPRA7A7ELBwMGaMIihgtM4iFe7UQS1A4WsHgQYADHUhqa
   </data>
  </layer>
  <layer name="Other" width="11" height="12">

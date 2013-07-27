@@ -16,7 +16,7 @@
  <tileset firstgid="5137" source="../tileset/animation.tsx"/>
  <layer name="Walkable" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJx7zsDA8HwUj+JRPIpH8SgexcMCC4og8EiwdyAxB+PAu2EUj+JRPIopxQCLUSbg
+   eJxjZGBgYKQBfk4A08LOUXtH7R21d9TeUXuHrr2jmDpYUASBR4K9A4k5GAfeDaN4FI/iUUwpBgAGrBIZ
   </data>
  </layer>
  <layer name="other" width="30" height="30">

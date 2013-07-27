@@ -16,12 +16,12 @@
  <tileset firstgid="5137" source="../tileset/animation.tsx"/>
  <layer name="Walkable" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJzt0rEJAAAIA8G4v0M7gxBQ8YuvL0VCUhCZy2bfXNcWXG8XXOdG3H3utz/j4uLi4s67BXqwI+U=
+   eJzt0rENADAIA0Gzf4ZmghSRXED8xddnJEpSEZk7j6W5ri243ja4zo2489y0f8bd597sX+/FxU1wG5EWJHA=
   </data>
  </layer>
  <layer name="Other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo2AUjIKhAZqIwM00sPcQEnYFYhc0MRA+TAN7kcFCIF4MxJ5AvAYNe9HB3l4gduVAleumk70TRRDiIDY97M0E4hw0nEUHe6kNmlgGxt5eAvIjwV7kcikViFMYiCvDiMFfeRgYvvFgtxe9bKImFuVlYBDjJT18RsEoGAWDGwAAP0lBQA==
+   eJxjYBgFo2AUjIKhAZqIwM00sPcQEnYFYhc0MRA+TAN7kcFCIF4MxJ5AvAYNe9HB3l4gduVAleumk70TRRDiIDY97M0E4hw0nEUHe6kNmlgGxt5eAvLDyV42Yez2IpdLqUCcwkBcGUYKxmYvetlECzwKRsEoGF4AADX7QZk=
   </data>
  </layer>
  <layer name="Dirt" width="30" height="30">
@@ -59,19 +59,24 @@
    eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
   </data>
  </layer>
+ <layer name="other" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztzUENADAIBDBeGJiHSZl/SXhYQu7TGmgVAAA/+mTeG3pf6AX2DNFlAKw=
+  </data>
+ </layer>
  <layer name="Collisions" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJzFlklOwzAUhl2piyzSbHKCwhWYYQNnAFaot2CL1OkADN2hSilwAKYNFKTSEzAdBGi3iP8RWxj3OYk7/tKnVJHr3//Ls5NaXog6qE35eg4uZnCdds5Z533IubEHSKPmrXtCLARCLBosgcNQiCNwDE5AA5xK31HzkiJfiJbBGbiEzxW4BjfgFrQtNXDNm+T7DJ8X8ArewHs4WBuqC9VgmLwdeDwZdMEHfD7BF+iBfji4Rlqfqr1NFUverKJeMNdI6+NqTxzI9bQseV1U8+KrrRer3t/YZm48eXXZekKJatMcY14lW08oVb3h85pj1lDHdYaNgP//sHnNMVxt9foWcZ2TzPvJefWeSFOab2TcS8rL9QRpGetY0VgN0n31Z96VvvtBjJnX5sudD2m+psi3EfBwvVjO8+cD18Pmf01f/ZnrTEIleXZ8T9lX16x8N+GxxTAJqTqXHM6rHnqtH/D7iHv3JsnlvFK+WfaRbf+YvlnyRnK+LPuI7pWNOe4KQtyDdiE57za+IXbAbhiP6aj5tPco/a54YkBV5l5R1iLtfB63Ij/b+Zwmysnlsqnj/z+ff+dg8rp+t7vwmJD3B1RVZUE=
+   eJzFljlOw0AYhSdSJAw4LuITBAq2lh16thaoELegRcp2ALYORXKAA7CkgYAUUrBVbGdgq4CkRbwRHmGN//GS9UmfJrJsv3n//DNOJspYFmRaPO6DgzaMrc7Z7rznkXCsAK5682Y1xoYNxkYkRsGGydgm2ALbYAfs2r715uWydMbyEnvgED5H4BicgAIoKmoQNq+X7z18HsAjeALPprs2vC68BrXkLcHjUqIMPuHzBb5BBVRN9xz5/ETtVUop8gYV7wV5jnx+VO056/Z88oq8YZTR/kZVL6a1/3tzkcbkdUrVE0K8NrkG5hVS9YRQWqs9r3zPJOo4RTBt0M/Xmle+h6qts74JjD02vbp3XmdP+MnP15KueeWleoJrDPMYdzBh+Ps617zs8F0z3HlVvtT54OcrS/hexRm7BjfgFtzF6V5MRunzgeph+VnK9wU+r+ANvIOPuP+a1qMf27cD56sGOkEX6Dab6yvUB59+MAAGwVCLfGfgMwvmwDxYaLLvaojzqoKerxr0PqK+vV4Kc14J3yD7SLV/ZN8geS37fUH2Eb+WlN5xGmPsDBRj3nkXscZLYNle65J4n+M7yn+nNOZSmriWsGvhdz43WpYe7Hz2E89J5VKppLvPZypv2P/tYbjwyPsLIhRnxg==
   </data>
  </layer>
  <layer name="WalkBehind" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBgYkMLCwJDKQn96qAFq+FeEj4FBFA2LAXGhMANDERAXA3EJEJcKD6xfsQFy/BsC9FsoGg7jw24+etiI4VBHCojjQaWpBZKokJ7RwwZXuNAK4EqL2AA1/DvQgJS0SKp/0dVIAc2VxoJl6BzH6EAKh1uw+ZeUfBgFVBONBcdA9VoBaWsotiEzDMSB+iSQsCTUHPQ8jpzXo7C4BZd/ScmH7DjKEw4c4iVIZpbyoWJcIBNo1lcRBoYIPggG8dV5sPtXA81eOQ4IPYWMsO4EmiUqisp3x+EvDzRxO6i9W4D2bsWBhxOAhTO9gR2avaSUV9jyES3qXhD4jGTONyrGPSH/ItsbzofIQyAcCc1LyPVAJpb0PYuXgWE2EM/hJd5dwvzAsARiUSAW48eU7+TBz8cF6FH/3gL68zYQ3yHBv9QAv4D2/QbiP0j2Dof2BqkA3b8AlqVloQ==
+   eJxjYBgYkMLCwJDKQn96qAFq+FeEj4FBFA2LAXGhMANDERAXA3EJEJcKD6xfsQFy/BsC9FsoGg7jw24+etiI4VBHCojjQaWpBZKokJ7RwwZXuNAK4EqL2AA1/DvQgJS0SKp/0dVIAc2VxoJl6BzH6EAKh1uw+ZeUfBgFVBONBcdA9VoBaWsotiEzDMSB+iSQsCTUHPQ8jpzXo7C4BZd/ScmH7DjKEw4C5cxyIQaGFUC8EohXAfFqIdxqM4FmfRVhYIjgg2AQX50Hu381qFi+dQLNEhVF5bvjMN+DyuXqKCAPkFJeYctHtKh7QeAzkjnfqFj2EfIvsr3hfIg8BMKR0LyEXA9kYknHs3gZGGYD8Rxe4t0lzA8MSyAWBWIxfkz5Th78fFyAHvXvLaA/bwPxHRL8Sw3wC2jfbyD+g2TvcGhvkArQ/QsA25Zf7A==
   </data>
  </layer>
  <layer name="Other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFIwnc5x0Ye/8PkL2jABVU8TAwVPPQ395ZQDtnD4C9gw0MRPj/5xmY8JcfBnkeGHYNpOrhBOqp5IGzyQLAsCPZXk+gvTN54GyCIA6LmnA+BoYIPkQ6jeQj1RWUgdFyYviAy8C0cwWIrwLxNRqnoy9CDAxfgfibEG3tQQciwgwMokAsJowq/o0Ps6wPQQuDMArCxARonykQmwljypGTh8gp56gByCnnqAUqB6icmTmIyzcAf7wggw==
+   eJxjYBgFIwnc5x0Ye/8PkL2jABVU8TAwVPPQ395ZQDtnD4C9gw0MRPj/5xmY8JcfBnkeGHYNpOrhBOqp5IGzyQLAsCPZXk+gvTN54GwwWCaEW30cFreF8zEwRPAh0mkkH6mugIBjeOzFByhNp8/ItHcUUB9cBqadK0B8FYivkZmOiAVfgPH+FYi/0Tn+RYQZGESBWEwYVfwbH2ZZH4IWBmEUhIkJ0D5TIDYTxpQjJw+RU85RA5BTzlELVA5Qe2TmIG4HAQDcGCML
   </data>
  </layer>
  <objectgroup name="Moving" width="30" height="30">

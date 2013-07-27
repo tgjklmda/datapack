@@ -2,7 +2,7 @@
 	<name lang="en">Roade 1</name>
 	<name lang="fr">Route 1</name>
 	<grass>
-          <monster id="1" minLevel="2" maxLevel="4" luck="20" />
+          <monster id="1" minLevel="2" maxLevel="3" luck="20" />
           <monster id="2" minLevel="2" maxLevel="3" luck="80" />
   </grass>
 	<wather></wather>

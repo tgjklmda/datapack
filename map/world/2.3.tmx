@@ -16,12 +16,12 @@
  <tileset firstgid="5137" source="../tileset/animation.tsx"/>
  <layer name="Walkable" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztzbEJACAMAMFk/y1czjVcIIUQCChXXPufEZGF1VD1bvn6+vq+8u28u98fbQBg3AGOcyN2
+   eJztzbENAEAIw8Cw/xYsxxq/AAVSoHjJxbV2SIpGGrreFF++fPn+8nXe7hd7atlVFwCACw9ogwa2
   </data>
  </layer>
  <layer name="other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYMAE2kCsi0WcGDCqd/jr1QRiHgKYFvZyArEPAUwLe0f1jurFpZeYvIANaxGpFxvwZiCcDyjFo2DwgoPcqDQtwSEkOx5yo9K0BI8osIMe4YIN0CNcRgI4xI2fTyuAnuYoSYOjYBQMRQAA4i8djQ==
+   eJxjYMAE2kCsi0WcGDCqd/jr1QRiHgKYFvZyArEPAUwLe0f1jurFpZeYvIANaxGpFxvwZiCcDyjFgwGYM1JuhgUj6eaEA9VfZ6AMH4diQurIAQe5UWlagkNIdjzkRqVpCR5RYAc9wgUboEe4jARwiBs/n1YAPc1RkgZHwSgYigAAL1Q0RA==
   </data>
  </layer>
  <layer name="Dirt" width="30" height="30">
@@ -46,7 +46,7 @@
  </layer>
  <layer name="LedgesBottom" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztzMEJACAMBMFLHxLsv0pbEF9CZmC/mwDAf1Yl/diu+w8ATHYAEHsC5w==
+   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
   </data>
  </layer>
  <layer name="LedgesTop" width="30" height="30">
@@ -61,12 +61,12 @@
  </layer>
  <layer name="other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztwzENAAAIA7D5l4Q6DOyGp02aAAAAdPOUGwv+ZRXN
+   eJztzjENADAMBLEPyhZr0ZVElCy2dPslAECXW8mp7QuAPm8pZnyihhZ+
   </data>
  </layer>
  <layer name="Collisions" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJwTZGBgEGKgDVgjwMCwForXCaDyDYHyRjSy9wzQ/LNQfE4AlQ8DggzY/R0izMAQCsRhQNzCgcpHl0cHb4Dmv4XidwKofBighb/j0NjIfFz+pDWgZfwSA2jh7xogroPiBjQ+DNDC3/jyESF/4ku/zVjSNzLAl48o8SfIXnyAmHxEi/jFl49ggN7pejT/0heMxi99wEjx90jxJzoYKf4eKf4cBSMDAAB+wDmh
+   eJwTZGBgEGKgDVgjwMCwForXCaDyDYHyRjSy9wzQ/LNQfE4AlQ8DggzY/R0izMAQCsRhQNzCgcpHl0cHb4Dmv4XidwKofBighb/j0NjIfFz+pDWgZfwSA2jh7xogroPiBjQ+DNDC3/jyESF/4ku/zVjSNzLAl48o8SfIXnyAmHxEi/jFl49ggN7peqTn3zOMlGEYIFbdaPzSB4wUf48Uf6KDkeLvkeLPUTAyAADP/UzZ
   </data>
  </layer>
  <layer name="WalkBehind" width="30" height="30">

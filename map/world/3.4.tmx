@@ -16,12 +16,12 @@
  <tileset firstgid="5137" source="../tileset/animation.tsx"/>
  <layer name="Walkable" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztzTENADAMBLEP1fIH0UKImoyWzvNVklO7Xi2+vr7zLwAA/LrEgUDF
+   eJztzbENADAIwDB4lf+PaD9ggA1L8ZzKiFr2a20/fX0vfgEAYOIB0XND1Q==
   </data>
  </layer>
  <layer name="other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxLZGSgOkgmwszEUXtH7R21l2J7G4FqmsjEIIBNvJkGfhkFo2CoA1eOgXbB8ATEhutgCn9BIBYaAHsNgdiISLWkuJEbiHmpYA4IkOJGbSDWpYI5pABQOsJnLy3BqL3kAR4SsRYQaxKpTgcP9iERcwExJ5Hq8NlLKqA0nGF2AgDMMR/s
+   eJxjYKA+SGakgaEDYK8ElBajs73EglF7R+1tYiQf49LfPED+HQWjYDADV46BdsHwBMSG62AKf0EgFhoAew2B2IhItaS4kRuIealgDqlAG4h1cciR4ldSACgd4bOXlmDUXvIAD4lYC4g1iVSngwf7kIi5gJiTSHX47CUVUBrOMDsBq9ocqA==
   </data>
  </layer>
  <layer name="Dirt" width="30" height="30">
@@ -66,12 +66,12 @@
  </layer>
  <layer name="Collisions" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztk7sNAjEMhikpAYlBoDhRUTAEUDEJQhkImASYBJgBW8qJyJfYjhNdlU/6JTuOY+fVTeqzUczpWt1Wt9UtrrsHHQxaMrEjqbGbDuvOQYu87bBo11uB1hX7oOuloHW0eaVY+yvFeh8aYu+pZL0YuedR6/xy+x/rHaWo/W60WPdt7VfKk+LWfqW8mvfP/auxcIF9Bm29XMSnSPGe2D7vs799BfvmhePUpzxg7MnEOV7B/H4dFI5TP1U3Fef4BvPfYH+8cJz6FCnOcWLsVEzKbQxxgY3/4uLlIj5FinP8AP60Qek=
+   eJztlDsOwjAMhjN0YAQkHteAoerEAHegnTgJQh3gJrABJwFOApwBR0pUYxKnSVtUJD7plxw7ttPUrRA8PVDfsYeSeO43MQFNlT0EjUDjBvrq2rS+9MeoLtc7pG+M7IT4cV+udt19l6AUlKnYolNfX11b1zf5ccw0dz59Q+ZWgucupK8p3wd852X6poEaMLFMvDO3zEGdbCMhdtH38jR7yD0E5IfmNUXVewgl5B7aPE9VadtcuPi1e2rqP+GK0/OWPYfrOX3vgdtPv6u63q1PnVwUZ1yDPVOSfrqm0LjtWU3/j3O3sI9gn5Skn64pF/BdmTjHDe3XdaSkn65tfW1xjifafwf7oST9dE1xxTlWjG2LuXL/fJIjW34XG6XcsKa44hwvJCBdxw==
   </data>
  </layer>
  <layer name="WalkBehind" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJzt00EKgDAMRNHu1I3e/0TWk6i3MIFAZcAGxJ3/wcAk6balAAAAAO9tc+ur9Rrxvc4qu/ect/e79SPie51Vdu+ZltYH62PE9zqr7I7/evpHmq//0QUzuiNq
+   eJxjYBgFo2AUjAIISGFhYEhloZ++4QZGwwEVjIYHcWCohROtyglSzR0K4UYtNw4Fv57kQ7CPA9knoBgkjs5HB4Tk8YGXSOqfA9kvoBgkjs5HB4Tk8QFOfgSbHcjmgGKQODofHRCSHwUjF+DKR+iY2vkIAKJyLGU=
   </data>
  </layer>
  <layer name="other" width="30" height="30">

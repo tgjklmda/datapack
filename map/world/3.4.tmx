@@ -66,7 +66,7 @@
  </layer>
  <layer name="Collisions" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztlDsOwjAMhjN0YAQkHteAoerEAHegnTgJQh3gJrABJwFOApwBR0pUYxKnSVtUJD7plxw7ttPUrRA8PVDfsYeSeO43MQFNlT0EjUDjBvrq2rS+9MeoLtc7pG+M7IT4cV+udt19l6AUlKnYolNfX11b1zf5ccw0dz59Q+ZWgucupK8p3wd852X6poEaMLFMvDO3zEGdbCMhdtH38jR7yD0E5IfmNUXVewgl5B7aPE9VadtcuPi1e2rqP+GK0/OWPYfrOX3vgdtPv6u63q1PnVwUZ1yDPVOSfrqm0LjtWU3/j3O3sI9gn5Skn64pF/BdmTjHDe3XdaSkn65tfW1xjifafwf7oST9dE1xxTlWjG2LuXL/fJIjW34XG6XcsKa44hwvJCBdxw==
+   eJzlVDsKwkAQXSGFpQp+rqFFSGWhdzCpPIlICr2JdsaTqCdRz+As7JLJsP8kEvHBg9n5vc1kEsbMGAJHlhyKxDNfhTlwIewJcAqctaAre9P+3B+jvibtEN0Y2QnxY11T76Z1N8AUmInYut+cruwt+6v8OKbaOx/dkL3lwHsXoquq9wGeuYtuGsixIZaxKlaaPWgSh4ixY/S9OokT1J4D6kPr2kLdOYQiZA5d3qe66Npe2PBrc2rrP2GL0/u63sP2nL5zMOXT76qpd+vTJ2flHXdgLwW5n54paFz2KXrVPNX/4zoo7QvYhSD30zPFDXx3RZzqqvBA+bIPJ/fTs06Xxl103yj/CfZLkPvpmUIXd9HdGmxdzFbrovtvyJHNv4u9YK44U+jiLnP+AK5yYds=
   </data>
  </layer>
  <layer name="WalkBehind" width="30" height="30">
@@ -101,7 +101,7 @@
    </properties>
   </object>
   <object name="bot spawn" type="bot spawn" gid="5122" x="240" y="256"/>
-  <object name="door" type="door" gid="5123" x="224" y="144">
+  <object name="door" type="teleport on push" gid="5123" x="224" y="144">
    <properties>
     <property name="map" value="../cave/3.5b"/>
     <property name="x" value="16"/>

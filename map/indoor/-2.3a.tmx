@@ -98,7 +98,7 @@
  </layer>
  <layer name="WalkBehind" width="11" height="12">
   <data encoding="base64" compression="zlib">
-   eJxjYBgYIMzCwCDCAmG3caDKdaDxjYHqTIB4ElT9cg4ExgU2sVDPrcSCiUjumYLHbYMZAADwMQZL
+   eJxjYBgYIMzCwCDCAmG3caDKdaDxjYHqTIB4Egvx5m8iQS21wEQkd0/hwK1uMAMALrMEPg==
   </data>
  </layer>
  <layer name="other" width="11" height="12">
@@ -109,9 +109,9 @@
  <objectgroup name="Moving" width="11" height="12">
   <object name="teleport on push" type="teleport on push" gid="1027" x="32" y="192">
    <properties>
-    <property name="map" value="../world/0.0"/>
+    <property name="map" value="../world/-2.3"/>
     <property name="x" value="18"/>
-    <property name="y" value="15"/>
+    <property name="y" value="7"/>
    </properties>
   </object>
  </objectgroup>

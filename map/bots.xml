@@ -3,14 +3,15 @@ default:
 skin is invisible
 -->
 <bots>
-	<bot id="1">
-		<step id="1" type="text">
-			<text lang="en"><![CDATA[Hello world!]]></text>
-		</step>
-	</bot>
-	<bot id="2">
-		<step id="1" type="text">
-			<text lang="en"><![CDATA[Welcome in my shop!<br />
+    <bot id="1">
+        <step type="text" id="1">
+            <text lang="en"><![CDATA[Hello world!]]></text>
+        </step>
+        <step type="heal" id="1"/>
+    </bot>
+    <bot id="2">
+        <step type="text" id="1">
+            <text lang="en"><![CDATA[Welcome in my shop!<br />
 			<br />
 			<center>
 				<a href="2">Buy</a><br />
@@ -18,38 +19,42 @@ skin is invisible
 				<span class="remote"><a href="http://catchchallenger.first-world.info/shop/">Buy with real money</a><br /></span>
 				<span class="quest"><a href="4">Quest<br /></a></span>
 			</center>]]></text>
-		</step>
-		<step id="2" type="shop" shop="1" />
-		<step id="3" type="sell" shop="1" />
-		<step id="4" type="quests" />
-
-		<!-- Farm your success -->
-
-	</bot>
-	<bot id="3">
-		<step id="1" type="text">
-			<text lang="en"><![CDATA[You are into dangerous zone.<br />
+        </step>
+        <step type="shop" shop="1" id="2"/>
+        <step type="sell" shop="1" id="3"/>
+        <step type="quests" id="4"/>
+        <!-- Farm your success -->
+        <step type="text" id="2">
+            <text lang="en">Hello we will heal u monster</text>
+            <text lang="fr">Bonjours je vais soigné vos montres</text>
+        </step>
+    </bot>
+    <bot id="3">
+        <step type="text" id="1">
+            <text lang="en"><![CDATA[You are into dangerous zone.<br />
 			Here grow the root of the evil.<br />
 			<br />
 			Take care.]]></text>
-		</step>
-	</bot>
-	<bot id="4">
-		<step id="1" type="text">
-			<text lang="en"><![CDATA[I can learn you some attack<br />
+        </step>
+    </bot>
+    <bot id="4">
+        <step type="text" id="1">
+            <text lang="en"><![CDATA[I can learn you some attack<br />
 			<br />
 			<center>
 				<a href="2">Learn</a><br />
 				<a href="3">Quest</a><br />
 			</center>]]></text>
-		</step>
-		<step id="2" type="learn" />
-		<step id="3" type="quests" /><!-- show the default failure text if failed -->
-		<step id="10" type="text">
-			<text lang="en"><![CDATA[The bandit want I give you some plants.]]></text>
-		</step>
-	</bot>
-	<bot id="5">
-		<step id="1" type="fight" fightid="1" />
-	</bot>
+        </step>
+        <step type="learn" id="2"/>
+        <step type="quests" id="3"/>
+        <!-- show the default failure text if failed -->
+        <step type="text" id="10">
+            <text lang="en"><![CDATA[The bandit want I give you some plants.]]></text>
+        </step>
+    </bot>
+    <bot id="5">
+        <step type="fight" fightid="1" id="1"/>
+    </bot>
 </bots>
+<bot id="100"/>

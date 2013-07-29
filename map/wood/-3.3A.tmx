@@ -36,7 +36,7 @@
  </layer>
  <layer name="LedgesRight" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJzt1cENACAIADGYzNFdzRGIEj+k/d4AFwEwy272Vyt7HYBZfv2m4jfcOJhBAv4=
+   eJxjYBgFo2AUjILhBe5TKE8usGekTH4UjIJRMApGwfACtKpvCIHR+mYUkAIAN24DXg==
   </data>
  </layer>
  <layer name="LedgesLeft" width="30" height="30">
@@ -96,5 +96,19 @@
    </properties>
   </object>
   <object name="bot spawn" type="bot spawn" gid="5122" x="272" y="192"/>
+  <object name="door" type="teleport on push" gid="5123" x="400" y="240">
+   <properties>
+    <property name="map" value="../world/-3.3"/>
+    <property name="x" value="9"/>
+    <property name="y" value="18"/>
+   </properties>
+  </object>
+  <object name="door" type="teleport on push" gid="5123" x="400" y="256">
+   <properties>
+    <property name="map" value="../world/-3.3"/>
+    <property name="x" value="9"/>
+    <property name="y" value="19"/>
+   </properties>
+  </object>
  </objectgroup>
 </map>

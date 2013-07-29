@@ -110,7 +110,7 @@
   </object>
   <object name="door" type="door" gid="5123" x="288" y="240">
    <properties>
-    <property name="map" value="../indoor/0.0c"/>
+    <property name="map" value="../indoor/0.0b"/>
     <property name="x" value="6"/>
     <property name="y" value="10"/>
    </properties>
@@ -124,7 +124,7 @@
   </object>
   <object name="door" type="door" gid="5123" x="144" y="368">
    <properties>
-    <property name="map" value="../indoor/0.0C"/>
+    <property name="map" value="../indoor/0.0c"/>
     <property name="x" value="6"/>
     <property name="y" value="10"/>
    </properties>

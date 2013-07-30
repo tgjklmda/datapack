@@ -59,19 +59,24 @@
    eJztzcEJAEAIBLFtQbj+a/VhD3JgBuadZKq3e7hcLpfL5XK5XC73U/dKDffgcVE=
   </data>
  </layer>
+ <layer name="other" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztzbEJAEAIwED339BR3kqneAQvkPoibpZcLpfL5XK5XC53vfvm+vi1GjI6MIk=
+  </data>
+ </layer>
  <layer name="Collisions" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztz7ENACAIBVEKR8dNcE9pXOEovEsI5c/LFbH76Ko3z8Bu6kXSy6SXSS+TXia9THqZ9DL96qX/89L/AjIvRRs=
+   eJzt0rERACAMA7EUTM4onhRWoEkK9Heu1TirKnfdhcuVHvvtz1wul8vlcufc3bwM7QAcXkKJ
   </data>
  </layer>
  <layer name="WalkBehind" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztz7ENACAQw8AUPyrsvwIVKxDJ2E3K6JJOa5I9pfNCetnpZaeXnV52etnpZXe9r/c37wH5vyMc
+   eJzt0qERADAMA7GATu7J2ykMUv2dsYhzZvLWLtzVrnb325+5XC6Xy+VyW257F0InKeE=
   </data>
  </layer>
  <layer name="Other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztzUENAAAIBKDr39A2Pgyhm1CAZFR2eL1er9fr9Xq9Xu+194sG7OoXvQ==
+   eJxLYmFgSALimwz0BUkDbC+9wUDZOwqGNxhp6XnU3lF7R+0dtXfU3lF7R+0defaOYtpiAKzhN+M=
   </data>
  </layer>
  <objectgroup name="Moving" width="30" height="30">

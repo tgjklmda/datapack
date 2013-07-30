@@ -16,12 +16,12 @@
  <tileset firstgid="5137" source="../tileset/animation.tsx"/>
  <layer name="Walkable" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztzbENACAMBLFk/0FZgwkQQuE7F9eeu6o60LqUMLn/3dOLm3Nf4nK5XC6Xy+VyJ+4GPQRfRg==
+   eJztwwENAAAMw6DOv+kLOSSsmqqqqu8ezqADhQ==
   </data>
  </layer>
- <layer name="other" width="30" height="30">
+ <layer name="Other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYCAfPCNRnFpgoOzFBWht73E0fIJO9qKb/2KE2fuEARLeT+lsL73AqL3kgYkipKmjhr3E2omsftS/tLWbmv4lB4zaO2ovJcCVY2DsxQVG7SUeqDOShjUYqWNvOiPxuBWIPahkLynAbdResgEACb02kA==
+   eJxjYBgFo2DkAkYOBCakZigBYvxFifrBAIaim2kNkMNkuIYPKXkWXc1gC5PB5p5RMPjBUEwzpJZLQ9GPo2AUDHUAAGQdAY0=
   </data>
  </layer>
  <layer name="Dirt" width="30" height="30">
@@ -31,12 +31,12 @@
  </layer>
  <layer name="Grass" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztzaENAAAMw7CO7f+Ld8FokS0FJwEA6Jj98/UF+g65NwE8
+   eJztlMEOgDAIQ+fN//9iTyZLBNYW2C42MW6m5DFhjPHrpK77+yixFVw0D5aLsFb8bJ6M39tH36v+Z+RnuIgqar2qWZRjlovEdnNn726uxWR1qt+Qe47myXBZTzc3ip3fJ7jq7FLk3SOGy9bX2yP9+a7RcyFzY+VHmQjXOqM6uxBu5LfYaJx3LssT+dX5oHq8fZaL9JvH7ai7FR9xWTH9mu1tVTsYVXoAAuEK1Q==
   </data>
  </layer>
  <layer name="LedgesRight" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo2AUjILhD+4PkL3/R+0dtZcGwJ5xgCweYWC03Bi1d9ReysFoeTX4AQBx2g00
+   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
   </data>
  </layer>
  <layer name="LedgesLeft" width="30" height="30">
@@ -56,38 +56,38 @@
  </layer>
  <layer name="Water" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztzbEJAAAIBDFXENx/VjcQm+9ycHWqMvXcp+JyuVwul8vlcrlc7s9dPeIisQ==
+   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
   </data>
  </layer>
  <layer name="other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztzTEBAAAMwjD8O5ybmYAvFdAkm2705XK5XC6Xy+VyuVxux30dyBlv
+   eJxjYBhZIIOFgSETiLNYcLMHg5nUArR2z2D273Cyi54Al79G/TuwgNbuGYr+paT8GfXvwAJau3+w+ZfWYLj6d6iUz7gAqfmaEjW0BiOtfTXS2s8A+yo0YA==
   </data>
  </layer>
  <layer name="Collisions" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxbxMLAsIhK2IIBQRMC6HqDgWLhZOIICuy1QBJrIgNTw15KwpsQwBVW5IR5CAXhjO5uQuGKDMyoaC+hMEUGYUhhRggQkz6JtZcUQEz6pNReJw5MMUrTLrkAXb8tENfhwfbkW4XX3lgC6uNpbC8XDwMDNxLm4aGPvVpAe7SRsA4Z9mJLT4TsxQVo5d9aBkj6aUBSowh0dw1UvJ5G9tILjNo7/OxFzlfD2b/46qNRMDhBCzBuWodgeiTUvsLWXqWGveS2oyi1FwD15Zfi
+   eJzNl1EOgzAMQ/nYYdhOsnGSwf0PsHzmx+hZTqVZihSQW+Imbcr+2LZn2atsF74LNU/332WfsuPGd0HmnNLoap/SqED0robSuxrJt8j6KE6ytiRmxSFjVWzfej7LrhstiV43F2RfqPc9HqVLofNdvVO1nehVIHkkNUDiUZykBkg8pL+4Y0k8pL+4Y918Kb67r918TfHJviPaE/5Ufbr85IzqWNGPCKb60dQ55vajqTon9yu3bt29nNwfEk7SXwjnn+/PU/8OZE63vyQau/8DnH9tPA==
   </data>
  </layer>
  <layer name="WalkBehind" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxrYmFgaELClAJizWgaRPZS4gZK3D6c7UUPZ/QwTwHSqSy4aVoBfO6iRjqkt73oegnZQ017aRlepNp7nI+B4QQSPslHH3ufA+15gYRf0sledn4GBg4kzMlPH3tpDUbtHbV31N5Re0fB8AIjLT1Sq31FavuNUnsBAMBDqg==
+   eJzllsEKACAIQz10qP7/g+tYhyDR1ayB0EFsD4Yockc5iZReNc3vKPMtfl76y0s7nlc9zLxabzu5ZeP18vMSr2X/ROFdMVZlhhl4tX7Q/SeFzicbr5ei7KtRiNwy8FruB0QPWj/fz17eEDOjqwEY2Qiy
   </data>
  </layer>
- <layer name="other" width="30" height="30">
+ <layer name="Other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxLYmFgSELClAJizUjCYi8lbqDE7cPZXvRwxhXm+NTQAgxGe2llLjGYUnvpDUbtHXh7TUUZGKp4GBiqeehrbyjQ3llAO2fT2V5aglF7R+0dtXcUDHcwVNMjue2oUXtJAwCGNjen
+   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
   </data>
  </layer>
  <objectgroup name="Moving" width="30" height="30">
   <object name="border" type="border-bottom" gid="5124" x="240" y="480">
    <properties>
-    <property name="map" value="3.5"/>
+    <property name="map" value="0.7"/>
    </properties>
   </object>
   <object name="border" type="border-left" gid="5124" x="0" y="256">
    <properties>
-    <property name="map" value="2.6"/>
+    <property name="map" value=""/>
    </properties>
   </object>
   <object name="border" type="border-right" gid="5124" x="464" y="256">
@@ -101,5 +101,15 @@
    </properties>
   </object>
   <object name="bot spawn" type="bot spawn" gid="5122" x="240" y="256"/>
+ </objectgroup>
+ <objectgroup name="Object" width="30" height="30">
+  <object type="bot" gid="5123" x="304" y="224">
+   <properties>
+    <property name="file" value="../bots.xml"/>
+    <property name="id" value="2"/>
+    <property name="lookAt" value="left"/>
+    <property name="skin" value="badguys"/>
+   </properties>
+  </object>
  </objectgroup>
 </map>

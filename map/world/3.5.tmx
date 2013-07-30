@@ -16,12 +16,12 @@
  <tileset firstgid="5137" source="../tileset/animation.tsx"/>
  <layer name="Walkable" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJzt0rsNACAMA9FkVZZnDXponI+A4orrLL3GbmZeaCarmLi4uLi33eFaP7lZu8Pdd7iaG/00Li4u7iu3Gu5Zt6m6C71hhQY=
+   eJzt0rENACAMA0FnVZZnDXqqECNI8cV3lq5xSAqjWcwxcXFxcV+6I/J1cqv2DXff4ebc00/j4uLi/nLdcPu4C6l9i+o=
   </data>
  </layer>
  <layer name="other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYCAeuDEyMHgwIvjPSNBLCRgIe105RpZ/R+2ln71pQDszBsBedDBU7XViJA5T095ELObhAsloagfKXjYgnx1LuDgTYSYl9sL0J6FhbOpoYS8x6ga7vU2MmJhY/eTaS4y+UXtH7R21d3DaCwLk1o2U2ksJGLWXPoAYewHc4DHA
+   eJxjYCAeuDEyMHgwIvjPSNBLCRgIe105RpZ/R+2ln71pQDszBsBedDAU7XViJB5T015SQDKa3QNlLxuQz44lXJyxhA017QWBRKBYEhrGpo4a9qoBaQ1GhL3EuI8a9iKXH9S2t4kRE8MArewlpI/W9iLHIz3tRa8HRu2lnb1LgFgdDS+lsb2g+jYdB86gob3EAGqXG+TWjZTaSwkYtXfw2AsAdZQ3Gg==
   </data>
  </layer>
  <layer name="Dirt" width="30" height="30">
@@ -66,17 +66,17 @@
  </layer>
  <layer name="Collisions" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxrYWFgaAXiFgI0OoCJCwLZQgyYNCGwBKh3KQthGpc+QyDbiAGTJgQI+ZOQf8kFlPqXXEAt/xIbr+juptS/xMYrurtJ9S8MkOpPdHeT6l8YINWfMECpf9EBNv87cWCqI9a/zhwMDcTYS6z/xYBYnEgsQaT/iAFmJKi1wCIG858zlrCkpb3YwgtbuFDbXmz6YeqwpSdq2AsKW3z24gO09C+p9gYDcTgUiyKxI2hsLzZ9TTjKDlrbu2iA7B3K/kXOV8Tqw1Ue0dq/lOjHVn7Qw15q6qOFvcUMxNeNJVS0l1Iwau/gsRcAuUZeMA==
+   eJztlTEOwjAMRTMwdAWJ0mvAgDLTIzDAPegBEEfpSWkGS5Gxw3frlg58yQIhh9cXgtNvQuiB4tE+R4Mw/9z1cLdD7X7APQ51WoBLsXp6ca2eXlweyf9Sjee2VXgiXNT/YKgG9ENSG3hRWE9+rbCXpZyBnshe80jPLe2LN1daT33SeeI9KdehbkLdFW7a2xK3lM7Qb/VFQ/259z58es/Flda9lNkxN1ebWYmbn+lmQW7uHI3c9Jtq59aLK/2vovKeos2jqb7fuFoQLjo/vLmlrIH7CPjd2DlyrZnCTY7S/YXcz3zGWx04u2bfiWQMl9iSR8k7f1aU+wb/XW+n
   </data>
  </layer>
  <layer name="WalkBehind" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJzt1KENAAAIA8EKJiWw/wqMgIME/kz1m0o7wqS0fq+gl95LvQDm+LPv+NYLANsKri4RIQ==
+   eJxrYmFgaCICowNc4sQCYuwctXfk2UspGLWXPvaOglEwCugHkkZYHh6oMmu0rBwFo2AUjFQAAJO+Ncs=
   </data>
  </layer>
  <layer name="other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
+   eJxLYmFgSCICowNc4sQCYuwctXfg7KUUjNpLH3tHwSgYBaOAVmCgyqzRsnIUjIJRMAroCwBDACPd
   </data>
  </layer>
  <objectgroup name="Moving" width="30" height="30">

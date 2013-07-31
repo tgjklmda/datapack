@@ -61,7 +61,7 @@
  </layer>
  <layer name="other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYIAAK0YGht0MAwNAdu9iGDj7GUiwOxCIg6hoL63D/RcUSzNiyt2mob0wcBOLGD3i+ycDdj+DAK39jctumL+J8ftOItTgsvsXA+54t8IRJjuh7rJmpE6axBUGMkwMDHJMiHCwRlNDjbhBDwMQsAHaaceEWw+t0kQM0M44Jtx5kB7lLq64APn5F6YwTlBIBbulgOzfJJoxkQx7YXbD0gCpdo4CykHRANk7aYDsHQWjYLCCjUC8aaAdMQoGPQAA100wgw==
+   eJxjYIAAK0YGht0MAwNAdu9iGDj7GUiwOxCIg6hoL63D/RcUSzNiyt2mob0wcBOLGD3i+ycDdj+DAK39jctumL+J8ftOItTgsvsXA+54t8IRJjuh7rJmpE6axBUGMkwMDHJMiHCwRlNDjbhBDwMQsAHaaceEWw+t0kQM0M44Jtx5kB7lLq64APn5F6YwTlBEBbulgOzfJJoxiQx7YXbD0gCpdo4CykHhANk7cYDsHQWjYLCCjUC8aaAdMQoGPQAA260wgw==
   </data>
  </layer>
  <layer name="Collisions" width="30" height="30">
@@ -87,12 +87,12 @@
   </object>
   <object name="border" type="border-left" gid="5124" x="0" y="256">
    <properties>
-    <property name="map" value=""/>
+    <property name="map" value="0.13"/>
    </properties>
   </object>
   <object name="border" type="border-right" gid="5124" x="464" y="256">
    <properties>
-    <property name="map" value=""/>
+    <property name="map" value="2.13"/>
    </properties>
   </object>
   <object name="border" type="border-top" gid="5124" x="240" y="16">

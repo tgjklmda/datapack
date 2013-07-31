@@ -21,12 +21,12 @@
  </layer>
  <layer name="Other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJzdlmEOgjAMRrc7eCG1HkBvYBgHQU/gEYw30YtZfhDn3Eq7dpjwkiYkwN6+riQ4980dC7CezHo5G0bvw2gtiktS/UJeq96Bx31n6uDt9ppzXAvrDwZumHGU0LihwnfbfK7Pld7O/64lQevNwdlLba8pLxduZmDM6wSVebrH9VpkjOF6Az63S2ofvSuZsS2+1yty1PRA6xwJmdxz1H5DOSS5Lb3p2VP5Lb0pVH7t2VKEQvaWWVO6P3nj7C16fMQ62S/blFb/QhKWnIGYoUF26QysKbuUNWV/A/E6Owk=
+   eJzdlu8NgjAQxekXdQBnMK6h1D9fdQNDGQSdwBGMm+hiHgnEs7bntb1iwi95gQC913ccCUXxyQ2kQQ+mnoUMre9dqBbF2VI9kK9U77SCfTu0UXJ7dXlcPPUbAW/9w8NHireO8LvO3+enSN9KfdcKIdXXBWcvsb2mfLlwM2vGvPZQmft7XF+JjBiur4Hn1pZKtDZkxlawrk7IgXswAU07zTJ6thiUe4GuL4k1sd+Qizb3Fo67TvuBfO13XxK1JX1tqNlPfbcUxpM9Z1ab6k++OHuOHh9AR/myWcn1LxTCkDOAaTJkD52BMWUPZUzZX4IvPI8=
   </data>
  </layer>
  <layer name="Dirt" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
+   eJztwzENAAAIA7C5wb9DngngJWmTJgDw3zQAcLdDEgBP
   </data>
  </layer>
  <layer name="Grass" width="30" height="30">
@@ -66,7 +66,7 @@
  </layer>
  <layer name="Collisions" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJyllkFOxDAMRbOYBUtWwxwBOEDpng2wBQ0cAdjSC3Kg4QykqF98fX07aceS1Skkfv5xnPR0Wcqp+k/174tylg0dY/bVrzbGx1z1icbcBxpauWGeYyB+xFc/UNxj9ZeWMMlPOVMjPzC/hN9Tj2GJvW/onPz0P+ZhiTEuz6OMcTUZyj8TvIgRGdjjijmDsLfaSPw13FZNrnel3FS/3cVcfrJFdevhPlTeY/WngAutTjNiu33b4r5X3kf1z4CrOTiu459TW2esWbk9fbbGxuA3ehVnyvx8Fe85a5w9V39LuLCIuWUNlKnvrbNzoHyycdpTrE2ZzI7WlrVmurWnwI2YkYHB66H5sX7tqezMYNNzOqu7Wws21rjmfOaY0b2BHnDawcJ9BNNauj2T1dzpZ+1ratt7L0d/51yyNc7qGRnf3T11Zm707bXlnOI978arXo6t+eBeOJhcNK7q1HflZvf1PPfOzJnzyjju/7y/5rz5bGFNs+Hd7UP0j+PyXJjuL9bb+laBFsTlte69L8BlvZl2Z3qO9dyRLb092qO1zXqgpTf6TovW1vWk60fU+RcxI2Gs
+   eJyllkFOxDAMRbOYBUtWwxwBOEDpng2wBQ0cAdjSC3Kg4QykqF98fX07aceS1Skkfv5xnPR0Wcqp+k/174tylg0dY/bVrzbGx1z1icbcBxpauWGeYyB+xFc/UNxj9ZeWMMlPOVMjPzC/hN9Tj2GJvW/onPz0P+ZhiTEuz6OMcTUZyj8TvIgRGdjjijmDsLfaSPw13FZNrnel3FS/3cVcfrJFdevhPlTeY/WngAutTjNiu33b4r5X3kf1z4CrOTiu459TW2esWbk9fbbGxuA3ehVnyvx8Fe85a5w9V39LuLCIuWUNlKnvrbNzoHyycdpTrE2ZzI7WlrVmurWnwI2YkYHB66H5sX7tqezMYNNzOqu7Wws21rjmfOaY0b2BHnDao97RWro9k9Xc6Wfta2rbey9Hf+dcsjXO6hkZ3909dWZu9O215ZziPe/Gq16OrfngXjiYXDSu6tR35Wb39Tz3zsyZ88o47v+8v+a8+WxhTbPh3e1D9I/j8lyY7i/W2/pWgRbE5bXuvS/AZb2Zdmd6jvXckS29Pdqjtc16oKU3+k6L1tb1pOtH1PkXqaVhYQ==
   </data>
  </layer>
  <layer name="WalkBehind" width="30" height="30">

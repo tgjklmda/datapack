@@ -21,17 +21,17 @@
  </layer>
  <layer name="Other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFwxlksDAwZAJxFstAu2TwAEYOBKZEzWAGlLp/KPsdFxjqcUoMwOXH4eR3Uv0ynPw+CoYHGMlpkhK/j4QwG8lpYxQMLAAASHMClQ==
+   eJxjYBgFgxGwATE7EuYg05wMFgaGTCDOYiFOvRoaX4NMe0kFbkDsjoQ9aGgXIwcCU6IGF4DFHblxRi6AxR0ozihxPwMDaXqR7aUnINVeSsMEBmBplZZpFBsgJl3h8iMlfh9s8UuqX0hVP1D+Hah0NQroD6hVFg1FQInfR0KYjeS0MQoGFgAAqLAIEQ==
   </data>
  </layer>
  <layer name="Dirt" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
+   eJxjYBgFowAVqCPhUTC0wEDF2Uizd6SBkRa/o+lqFIyCUTAKRsFIAgBlwwFg
   </data>
  </layer>
  <layer name="Grass" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztlMEOwCAIQ91t///FO24xtLSIyw5r4kEDPkBkjF+/sI7zXrvuRQvZrTLns4jDYl1lztzMrrP+bj1VLrKLOApfzVnhsjd17sz8Uf+qcTm1VliKv+uX5VCJ2/VbkdP3lbfp4Dr23Ww0eyucCrerr5zZ4cwn9u/cnorOGRfFoUiZs1kdnRmqivVM119gNc/eGPkrTMRFnCqL8aO7Wa13KfprbzGf+7fyVWP6mi4WZAfP
+   eJztlMEOwCAIQ91t///FOyxLjIHSCpodbOJhi/QhiK0dHWFd97tWeEbe475MHlb8940YGb4X03OjfZX1V+uZ5Vochl/V66inXmwF0/JCeSlchsXEqlyLPcNV+1s1B5k53smtnHvFa7wXmZyVN8ZbKlc9ax/v+SHW6MPkif4jrpcHI+adjeqovKGs0J2ZvYcWA3Gj2s5wUa89ziwL8S1vVOtVsmZtF7P/3nVeNqe/6QGXwgc2
   </data>
  </layer>
  <layer name="LedgesRight" width="30" height="30">

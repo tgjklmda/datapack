@@ -16,12 +16,12 @@
  <tileset firstgid="5137" source="../tileset/animation.tsx"/>
  <layer name="Walkable" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztwwENAAAMAiBf1f4hDHLY6CVVVVX13QGGklwc
+   eJzt1bkNADAIA0DYf9CskQWiPIBjJChcXwGyVUQ0IOMxEWY199X0uBbL43o9ixtl3rqR3q2LME8uyty5SDObizZX7g+zXd59K7rM3mD2M3OPMux+uxgX9csZXaTJdCd+HTb1
   </data>
  </layer>
  <layer name="Other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJxjYBgFo4B2oBGImwfA3oVAvHjU3kFlL0jtIhLUYwNNUJwKxClIfHw4lQr2HkLDrlAzQdgFizwyPkyBvegAFoaU+mfU3sFvL770TWmZiu4vZHvxpWdK0zK6v2B5k9bhjC//jrR0NWrv0LcXVx03mo8Gh73UaOvgshdfvUBpWwcAOzZhTg==
+   eJxjYKAcPKOCGYTARJGBsRcbeEpHu45DMTXtxBaWyPbR038MA2DfcPUjerzS248DZedAgZESvgNVzo4Ue5Hz7VE62w0DIyWskcFAhTUIsDPS3356pTN87QsQAPl9IPwPA8M9rYPaN4FAHMRAv7YOPcMUOX2N1ofUBQBoiSNG
   </data>
  </layer>
  <layer name="Dirt" width="30" height="30">
@@ -31,7 +31,7 @@
  </layer>
  <layer name="Grass" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
+   eJzl1uEKgCAMRtH85/s/cVAMxthCy+4HNQikaEeH2Vrfjmj9vCz82Ed1/06MeNk7T+dgOWKeNlmLWbPKtdqqcmfPVtRz1L+qwds+Zfp6fnmd0SRdb9OhcFVrVdl/2k9KX3VmKNxo0242Jm31/4E2bUztt6yXInsOyqt6ZsJVn9E2D9Kiv6EdAxoCvw==
   </data>
  </layer>
  <layer name="LedgesRight" width="30" height="30">
@@ -56,22 +56,22 @@
  </layer>
  <layer name="Water" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
+   eJzt0u0JACAIBNBWCNp/1iYIvA/DyAP/+g50DE/mwsaVn1zUVF3GU13FZF3VZFyHibouE3GdZnXXbUbcDLPdOm6WHY26n3XZDk4Xsd1u1M5wlY4vuj/et917f1vRPc0GI65BCw==
   </data>
  </layer>
  <layer name="other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztzgENAAAIA6CHtv+McecgAclN0w4AAAA8tyjKAHU=
+   eJxjYKAOuEklc0btxQ12ArE1I33t2zUAdtLTvlE7h5+dIDAS8udA2QkCI6ncBYGfQCw9AOE8GOz+BcWkuEGGiYFBjol6biDWbhugnXZUspcUu6ltLwgQk9ZpYS8o7mQJYAca2BsDNC+WAFagUTjXAs2sA+IaJuxsWoQzMWmLFvaCAKG0NdzsJRTWIHvtsaRzagB8fsaV5qkBfuKRw5XOAXUHMFI=
   </data>
  </layer>
  <layer name="Collisions" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJy9l0lOm0EQhXvJgoVJS+BrwMJinyOAgHvgSxDIxHACVoAx8wGyBAJJCByCed7zSqbkR7mr/f9WwpOe8NDur7r/6uoihBBGg69BeKiE65m5rFJc5XncasHYeBxrDJ5KfF4zf3OxTsDjzrhpJx5vj4X3sa8152TCNlYd5/FzcVuuSvjB4StrAP4QOteeegbVDDe1TlnjXAzhM/wF/gp/i60Yh+ERillj1fj1va419WwblRDWyc1K+3cNcNbhJrwBb8bOHOD3Xvwp/QTniHxcoe/AOYKP4V/w79i5t14usnj9qitwrsk3r9wfGHsFzjV8A9/Cd7HN0rly+f2v5e21xJLKrf/N5dfMfy+uMOvE7lV277Qu2/Ojr5ktmkFefIJno8+w+b3c355X64WNie+HGlljWwFvFV6L6dyWz1LnSnOW6wVzeC7LFe2DdwAfZtbrnSuvJvP8unbLPQfvAr6MrfNZVrKubjmlY4rUkzIqmsupWt2rOIc0x+vmO5vLZebu1tfYefm97rH0GHo3FFGq3nTrq3hP5bXk4BSxRfbO8bj2OeaeE+c634V6B6buOo/r9Tzcd3i/HTNj+Ux68TMvd7+lxilXeoxe8pj7p+846/PwArwIL0W/djBX5PWvnrgeboGzDe/Au/Ce03NwP6qs3P8ILM1h7r//gHMC/4VP4bPYWbeK9N052X2SWnoPzgP8CD/Bz/HtWFGq1+E95p4xJbtPRWLkPsvrI4uco6IqU/dfAA83nB4=
+   eJztlksKgDAMRHMLPUrv0YXew/uDLRiQ0E+CmbjpQHBT8jpjrCUaK5c6njo7a9Kkh1YaFoJr6VP3qNmbRx9rHl/7ZMUaizS5euWp7eftkTXy6u1Rw0Uye1w0s8f1Ogcs3AivJBhRTKmIfBeX6Cq1/8ReWWPUYlT2BuaPckV6n71P9u7t3zJHnjNnydJ71ltsvt+wEHedKukl6jt+cyL/h++so8+sJJ5I3e1yGi0=
   </data>
  </layer>
  <layer name="WalkBehind" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztlrsNgDAMRF0AokqTFYBJgGX4/wZiU06CiFSpHBfgJ732rjonRIry0luiAY5wgrPly04MUeqZGb7sEAV6Ss9KqLdGT+PZPr1nLtOvfIcusEPdFW++7lPhQnqTDulNOmJtMgYLbuoKN7jDg/Gvo9xw3dI/70jyPboATeQR3A==
+   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
   </data>
  </layer>
  <layer name="Other" width="30" height="30">
@@ -82,22 +82,22 @@
  <objectgroup name="Moving" width="30" height="30">
   <object name="border" type="border-bottom" gid="5124" x="240" y="480">
    <properties>
-    <property name="map" value="1.11"/>
+    <property name="map" value=""/>
    </properties>
   </object>
   <object name="border" type="border-left" gid="5124" x="0" y="256">
    <properties>
-    <property name="map" value="0.12"/>
+    <property name="map" value="-5.13"/>
    </properties>
   </object>
   <object name="border" type="border-right" gid="5124" x="464" y="256">
    <properties>
-    <property name="map" value=""/>
+    <property name="map" value="-3.13"/>
    </properties>
   </object>
   <object name="border" type="border-top" gid="5124" x="240" y="16">
    <properties>
-    <property name="map" value="1.13"/>
+    <property name="map" value=""/>
    </properties>
   </object>
  </objectgroup>

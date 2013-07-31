@@ -4,13 +4,13 @@ skin is invisible
 -->
 <bots>
     <bot id="1">
-        <step type="text" id="1">
+        <step id="1" type="text">
             <text lang="en"><![CDATA[Hello world!]]></text>
         </step>
-        <step type="heal" id="1"/>
+        <step id="1" type="heal"/>
     </bot>
     <bot id="2">
-        <step type="text" id="1">
+        <step id="1" type="text">
             <text lang="en"><![CDATA[Welcome in my shop!<br />
 			<br />
 			<center>
@@ -20,17 +20,17 @@ skin is invisible
 				<span class="quest"><a href="4">Quest<br /></a></span>
 			</center>]]></text>
         </step>
-        <step type="shop" shop="1" id="2"/>
-        <step type="sell" shop="1" id="3"/>
-        <step type="quests" id="4"/>
+        <step shop="1" id="2" type="shop"/>
+        <step shop="1" id="3" type="sell"/>
+        <step id="4" type="quests"/>
         <!-- Farm your success -->
-        <step type="text" id="2">
+        <step id="2" type="text">
             <text lang="en">Hello we will heal u monster</text>
             <text lang="fr">Bonjours je vais soigné vos montres</text>
         </step>
     </bot>
     <bot id="3">
-        <step type="text" id="1">
+        <step id="1" type="text">
             <text lang="en"><![CDATA[You are into dangerous zone.<br />
 			Here grow the root of the evil.<br />
 			<br />
@@ -38,7 +38,7 @@ skin is invisible
         </step>
     </bot>
     <bot id="4">
-        <step type="text" id="1">
+        <step id="1" type="text">
             <text lang="en"><![CDATA[I can learn you some attack<br />
 			<br />
 			<center>
@@ -46,15 +46,27 @@ skin is invisible
 				<a href="3">Quest</a><br />
 			</center>]]></text>
         </step>
-        <step type="learn" id="2"/>
-        <step type="quests" id="3"/>
+        <step id="2" type="learn"/>
+        <step id="3" type="quests"/>
         <!-- show the default failure text if failed -->
-        <step type="text" id="10">
+        <step id="10" type="text">
             <text lang="en"><![CDATA[The bandit want I give you some plants.]]></text>
         </step>
     </bot>
     <bot id="5">
-        <step type="fight" fightid="1" id="1"/>
+        <step id="1" fightid="1" type="fight"/>
+    </bot>
+    <bot id="100">
+        <step id="1" type="text">
+            <text lang="en">Hello, i'll heal u monster</text>
+            <text lang="fr">Bonjours, je vais soigner vos monstres</text>
+        </step>
+        <step id="2" type="heal"/>
+    </bot>
+    <bot id="101">
+        <step id="1" type="text">
+            <text lang="en">Go fight !</text>
+            <text lang="fr">Viens te battre</text>
+        </step>
     </bot>
 </bots>
-<bot id="100"/>

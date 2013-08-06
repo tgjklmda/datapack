@@ -21,7 +21,7 @@
  </layer>
  <layer name="Other" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJzt1NEJACAIRVFbrdykJqnF0z8HiPcCvdD3ycBEsM0GBomumnnAroI8d3Y4iDnR76nA2WKZdqRcTIy/yKtZy33dMncQ7f6BX3fIaWfb9WwuuwvW/BIp
+   eJxjYKAvSGaks4UDaK8L0M5mOtvrQif7QPY0IWFkf04UoZ2d9AxPFyx+owcY6DxCq/gjZC+9wUiydyDKIhAYaL/SMy2PpPREjL20CvsUoL3OA+RnkN1Og8D+UTeMTLsHa14ftXd4AAAmkRS9
   </data>
  </layer>
  <layer name="Dirt" width="30" height="30">
@@ -31,7 +31,7 @@
  </layer>
  <layer name="Grass" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
+   eJztlMEKACAIQ+vW/39xdBBERnXZhGwQkYFPzWzti60+ajArcY23diYb+VbkGhmWp4rt64viYfDi8vcspvePbGyu6k2Nl6FTjsxao7Oip2/iYHO8ndFnuzoq5zNiKHs9619FfnYcav183+ZWks2wCS0fAlM=
   </data>
  </layer>
  <layer name="LedgesRight" width="30" height="30">
@@ -66,12 +66,12 @@
  </layer>
  <layer name="Collisions" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJy1losNwjAMRDMFZZTsUQTsUfYXRaqlk7mznX5OiiA/nj8kcWtcz7U9oD+v7bW2NxnDcRzz63/q2+e0tbtgs/3eBsZX6klfaSY2ZCxc67W02HdT1b6MyRhmA5sbiQvm+SgDx1SMWTy9jMn4C7Gni+/GY74pIZOxqty9ua/sR7uOckZtsLEsNpHw7DDGSI73+N+BkeXtTC4yvY8VbuXsmPzaDr9T/d+y9RmTvRV7uMpXf57Zu2F29PZvk7qjcA9TJQbIq94HWYwzrudV7uAzuOhrFGPfx/uDKXpzLNcsr4xrZ8yvNUaVj/WJj6+qW3rTMcT6IZpTtVGUm4hbtUG921HNxO60ig2ZMl+MeZSd1bwZeyJN2XP0HTG24vk5XytU/TPdCGuEN+Ijsj5ijbojPO/K2khp5I2+Sl8pnkax
+   eJy1lk1OAzEMhbPoghPQHoFyguy7AbZUhSNAt+X+IiNq6en1+SeMaslqJ8nk88/ETmtaTkOP8Pw+9GPopxjDcRzj9Yv06+/2qjuaPzz8sdX7bIPie9KTZ7YBmWxDxsK1vO+l+b5X7ZthKobZoOZm4oJ5XsvAMS/G5tvTprX90OfN7RpjKv5F2NOd/8ZD314G73Xom+Da/siv5tf+W3zZjq/B+x56drjR3srGXWHdWolynMUmEjw7ijGT4//434Hh1RSVx7VcZLKPFS7XhUhw7bJnh30iP7qwoeqrOvPM9c4H2+T5yudZ9Q2zo7dbm7wahe+o2lSJAfKqvQpjo2pTVsuRZ3k2ifocclVtyvxFX6MY8zPWDyVRz7Fcq7wqrp0xXmuMKh/vJxxf797Smx9DvD9Ec97dKMqN4mLPr9jg9W0bV/upmpaJ+gZ47+w7NCaylX08xuzszpuxt0K9WMz2kSx/zOM5vitU/TN5FKwZXrV/LH4i68dZ59UI5t3zbuTJTI++l/wCHnlRrA==
   </data>
  </layer>
  <layer name="WalkBehind" width="30" height="30">
   <data encoding="base64" compression="zlib">
-   eJztwQEBAAAAgiD/r25IQAEAAPBoDhAAAQ==
+   eJzt1CEOACAQA8GKE8D/HwzuLMFgZpL1VU3gzahknlb9XgLQfBMA3NvzogBP
   </data>
  </layer>
  <layer name="Other" width="30" height="30">
